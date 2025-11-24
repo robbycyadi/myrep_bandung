@@ -1,4 +1,3384 @@
-User-agent: *
+# As a condition of accessing this website, you agree to abide by the following
+# content signals:
+
+# (a)  If a content-signal = yes, you may collect content for the corresponding
+#      use.
+# (b)  If a content-signal = no, you may not collect content for the
+#      corresponding use.
+# (c)  If the website operator does not include a content signal for a
+#      corresponding use, the website operator neither grants nor restricts
+#      permission via content signal with respect to the corresponding use.
+
+# The content signals and their meanings are:
+
+# search:   building a search index and providing search results (e.g., returning
+#           hyperlinks and short excerpts from your website's contents). Search does not
+#           include providing AI-generated search summaries.
+# ai-input: inputting content into one or more AI models (e.g., retrieval
+#           augmented generation, grounding, or other real-time taking of content for
+#           generative AI search answers).
+# ai-train: training or fine-tuning AI models.
+
+# ANY RESTRICTIONS EXPRESSED VIA CONTENT SIGNALS ARE EXPRESS RESERVATIONS OF
+# RIGHTS UNDER ARTICLE 4 OF THE EUROPEAN UNION DIRECTIVE 2019/790 ON COPYRIGHT
+# AND RELATED RIGHTS IN THE DIGITAL SINGLE MARKET.
+
+# BEGIN Cloudflare Managed content
+
+User-Agent: *
+Allow: /
+sitemap: https://myrepublic-bandung1.my.id/sitemap.xml
+
+User-Agent: 
+Content-signal: search=yes,ai-train=no
 Allow: /
 
-Sitemap: https://myrepublic-bandung1.my.id/sitemap.xml
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: meta-externalagent
+Disallow: /
+
+# END Cloudflare Managed Content
+
+<!DOCTYPE html>
+<html lang="id" class="loading-site no-js">
+
+<!-- Mirrored from myrepublic-bandung.net/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 27 Jul 2025 17:44:30 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+	<meta charset="UTF-8" />
+	<link rel="profile" href="../gmpg.org/xfn/11.html" />
+	<link rel="pingback" href="xmlrpc.php" />
+
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Pasang Internet Myrepublic Bandung,Cimahi, Batujajar, Cihampelas, Bandung Selatan, Bandug Barat C &#8211; Sales Resmi Myrepublic Area Bandung. Cimahi, Bandung Barat, Bandung Selatan &amp; Sekitarnya</title>
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<meta name="viewport" content="width=device-width, initial-scale=1" /><link rel='prefetch' href='wp-content/themes/flatsome/assets/js/flatsomea5b3.js?ver=8e60d746741250b4dd4e' />
+<link rel='prefetch' href='wp-content/themes/flatsome/assets/js/chunk.slider0bb8.js?ver=3.19.5' />
+<link rel='prefetch' href='wp-content/themes/flatsome/assets/js/chunk.popups0bb8.js?ver=3.19.5' />
+<link rel='prefetch' href='wp-content/themes/flatsome/assets/js/chunk.tooltips0bb8.js?ver=3.19.5' />
+<link rel="alternate" type="application/rss+xml" title="Pasang Internet Myrepublic Bandung &raquo; Feed" href="feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Pasang Internet Myrepublic Bandung &raquo; Umpan Komentar" href="comments/feed/index.html" />
+<link rel='stylesheet' id='ht_ctc_main_css-css' href='wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/css/maina278.css?ver=4.25' type='text/css' media='all' />
+<link rel='stylesheet' id='flatsome-main-css' href='wp-content/themes/flatsome/assets/css/flatsome0bb8.css?ver=3.19.5' type='text/css' media='all' />
+<style id='flatsome-main-inline-css' type='text/css'>
+@font-face {
+				font-family: "fl-icons";
+				font-display: block;
+				src: url(wp-content/themes/flatsome/assets/css/icons/fl-icons375a.eot?v=3.19.5);
+				src:
+					url(wp-content/themes/flatsome/assets/css/icons/fl-icons.eot#iefix?v=3.19.5) format("embedded-opentype"),
+					url(wp-content/themes/flatsome/assets/css/icons/fl-icons375a.woff2?v=3.19.5) format("woff2"),
+					url(wp-content/themes/flatsome/assets/css/icons/fl-icons375a.ttf?v=3.19.5) format("truetype"),
+					url(wp-content/themes/flatsome/assets/css/icons/fl-icons375a.woff?v=3.19.5) format("woff"),
+					url(wp-content/themes/flatsome/assets/css/icons/fl-icons375a.svg?v=3.19.5#fl-icons) format("svg");
+			}
+</style>
+<script type="text/javascript" src="wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
+<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" title="JSON" type="application/json" href="wp-json/wp/v2/pages/2.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
+<meta name="generator" content="WordPress 6.8.2" />
+<link rel="canonical" href="index.html" />
+<link rel='shortlink' href='index.html' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="wp-json/oembed/1.0/embed565a.json?url=https%3A%2F%2Fmyrepublic-bandung.net%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="wp-json/oembed/1.0/embede9a2?url=https%3A%2F%2Fmyrepublic-bandung.net%2F&amp;format=xml" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'../www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5XLR9DL');</script>
+<!-- End Google Tag Manager --><link rel="icon" href="wp-content/uploads/2024/09/logo-1-150x150.png" sizes="32x32" />
+<link rel="icon" href="wp-content/uploads/2024/09/logo-1-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="wp-content/uploads/2024/09/logo-1-300x300.png" />
+<meta name="msapplication-TileImage" content="https://myrepublic-bandung.net/wp-content/uploads/2024/09/logo-1-300x300.png" />
+<style id="custom-css" type="text/css">:root {--primary-color: #7015cb;--fs-color-primary: #7015cb;--fs-color-secondary: #8224e3;--fs-color-success: #7a9c59;--fs-color-alert: #b20000;--fs-experimental-link-color: #8224e3;--fs-experimental-link-color-hover: #dd9933;}.tooltipster-base {--tooltip-color: #8224e3;--tooltip-bg-color: #000;}.off-canvas-right .mfp-content, .off-canvas-left .mfp-content {--drawer-width: 300px;}.header-main{height: 90px}#logo img{max-height: 90px}#logo{width:154px;}.header-top{min-height: 30px}.transparent .header-main{height: 90px}.transparent #logo img{max-height: 90px}.has-transparent + .page-title:first-of-type,.has-transparent + #main > .page-title,.has-transparent + #main > div > .page-title,.has-transparent + #main .page-header-wrapper:first-of-type .page-title{padding-top: 90px;}.header.show-on-scroll,.stuck .header-main{height:70px!important}.stuck #logo img{max-height: 70px!important}.header-bottom {background-color: #f1f1f1}.header-main .nav > li > a{line-height: 16px }@media (max-width: 549px) {.header-main{height: 103px}#logo img{max-height: 103px}}body{font-family: Lato, sans-serif;}body {font-weight: 400;font-style: normal;}.nav > li > a {font-family: Lato, sans-serif;}.mobile-sidebar-levels-2 .nav > li > ul > li > a {font-family: Lato, sans-serif;}.nav > li > a,.mobile-sidebar-levels-2 .nav > li > ul > li > a {font-weight: 700;font-style: normal;}h1,h2,h3,h4,h5,h6,.heading-font, .off-canvas-center .nav-sidebar.nav-vertical > li > a{font-family: Lato, sans-serif;}h1,h2,h3,h4,h5,h6,.heading-font,.banner h1,.banner h2 {font-weight: 700;font-style: normal;}.alt-font{font-family: "Dancing Script", sans-serif;}.alt-font {font-weight: 400!important;font-style: normal!important;}.nav-vertical-fly-out > li + li {border-top-width: 1px; border-top-style: solid;}.label-new.menu-item > a:after{content:"New";}.label-hot.menu-item > a:after{content:"Hot";}.label-sale.menu-item > a:after{content:"Sale";}.label-popular.menu-item > a:after{content:"Popular";}</style>		<style type="text/css" id="wp-custom-css">
+			.round-corners,.round-corners .fill,.round-corners .box-image,.round-corners .flickity-viewport,.round-corners .slider,.round-corners.round-corners-top,.round-corners-top .fill,.round-corners-top .box-image,.round-corners-top .flickity-viewport,.round-corners-top .slider,.round-corners-top .col-inner,.round-corners-top img{border-radius:10px 10px 0 0}.round-corners-bottom,.round-corners-bottom .fill,.round-corners-bottom .box-image,.round-corners-bottom .flickity-viewport,.round-corners-top .slider,.round-corners-topo.col-inner{border-radius:0 0 0px 0px}.section-round-top .fill{border-radius:0px 0px 0 0!important}.section-round-bottom .fill{border-radius:0 0 0px 0px!important}.section-round .fill{border-radius:0px 0px 0px 0px!important}body{font-family:remixicon,Manrope,Helvetica,sans-serif!important;font-weight:normal!important}.nav>li>a,.nav-dropdown>li>a,.mobile-sidebar-levels-2 .nav>li>ul>li>a,.widget .current-cat>a{font-family:remixicon,Manrope,Helvetica,sans-serif!important;font-weight:normal!important;color:#343f4b}h1,h2,h3,h4,h5,h6,.heading-font,.hero-vacatures .product-title{font-family:remixicon,neulis-neue,sans-serif!important;font-weight:700!important;font-style:normal!important}.button,button,input[type=submit],input[type=reset],input[type=button],.button.alt,th,.product-title{font-family:remixicon,Manrope,Helvetica,sans-serif!important;font-weight:normal!important}b,strong,span.widget-title,.accordion-title{font-family:Syne,Helvetica,sans-serif;font-weight:600;opacity:1;line-height:1.2}.custom-breadcrumbs .icon-box-text,.button,button,input[type=submit],input[type=reset],input[type=button],.button.alt,th,b,span.widget-title,.accordion-title.active,label,legend,span.amount,.badge-inner,.breadcrumbs{font-weight:600}.alt,.alt h1,.alt h2,.alt h3,.alt h4{font-family:remixicon,manrope-medium,Helvetica,sans-serif!important;font-weight:normal!important}p.tagline,.tagline p{font-family:remixicon,Manrope,Helvetica,sans-serif!important;font-weight:normal!important;text-transform:uppercase;letter-spacing:.1em;font-size:80%;margin-bottom:10px}.uppercase,h6,th,span.widget-title{letter-spacing:0}.no-margin h1,.no-margin h2,.no-margin h3{margin:0!important}.collapse p,.collapse h1,.collapse h2,.collapse h3,.collapse h4,.collapse h5,.collapse.headline,.headline.collapse{margin-bottom:0}.less-lineheight h1,.less-lineheight h2,.less-lineheight h3{line-height:105%}.breadcrumbs{color:#1C284E}.headline{font-family:remixicon,neulis-neue,sans-serif;font-weight:700;font-style:normal;text-rendering:optimizeSpeed;text-transform:none;letter-spacing:0;margin-top:0;margin-bottom:.6em;line-height:1.2}.single_add_to_cart_button,.button.checkout,#place_order,[data-icon-label]:after,.button.secondary:not(.is-link):not(.is-underline){color:#1C284E}.dark .button.is-form:hover,.button:hover,input[type=submit]:hover,input[type=reset]:hover,input[type=button]:hover{-webkit-box-shadow:none;box-shadow:none}p:not(.stars,.product-title) a:not(.button,.woocommerce-loop-product__link){background-image:linear-gradient(transparent calc(100% - 1px),currentColor 1px);background-position:100%;background-size:100% 100%;background-repeat:no-repeat;position:relative;transition:all .2s;padding-bottom:1px}p a:hover:not(.button){background-size:0 100%}.button.is-underline:hover:before{right:0;width:0;left:inherit}.button.is-underline:before{left:0;width:100%;opacity:1}.label-new.menu-item>a:after,.label-hot.menu-item>a:after,.label-sale.menu-item>a:after,.label-popular.menu-item>a:after,.label-plus.menu-item>a:after{text-transform:uppercase;font-size:9px;font-weight:bolder;padding:4px 10px;border-radius:99px;line-height:12px;top:-2px;letter-spacing:.05em;margin-left:4px;display:inline-block;position:relative}.label-new.menu-item>a:after{content:"Baru"!important;background:linear-gradient(132deg,#9F6AEC 0,#79C3FA 76.2%);color:#FFF}.label-hot.menu-item>a:after{content:"Hot !important";background-color:#AA70FF;color:#FFF}.label-sale.menu-item>a:after{content:"Sale"!important;background-color:#AA70FF;color:#FFF}.label-plus.menu-item>a:after{content:"New";background:linear-gradient(132deg,#9F6AEC 0,#79C3FA 76.2%);color:#FFF}.button.white:not(.is-link):not(.is-underline){color:#171717!important}.button{border-color:#fff0;letter-spacing:0!important}.button.is-large{font-size:100%;padding:5px 20px}.button.is-link.is-larger{line-height:0;min-height:inherit}.button.button-pastel{color:#171717!important;background-color:#dfdcd8!important}.button.button-gradient,.header-button .primary{color:#fff!important;border:0;background:linear-gradient(132deg,#9F6AEC 0,#79C3FA 76.2%)}.button.secondary:not(.is-link):not(.is-underline){color:#171717}.checkout-button.button,.checkout-button.button:hover{background-color:#35CE9D!important;color:#171717;padding:5px 0}.white.is-outline:hover{color:#171717!important}.button,button,input[type=button],input[type=reset],input[type=submit]{margin-right:.2em}.button.is-outline,input[type=button].is-outline,input[type=reset].is-outline,input[type=submit].is-outline{border:1.5px solid}button.single_add_to_cart_button.bundle_add_to_cart_button.button.alt,.current .breadcrumb-step,[data-icon-label]:after,.button#place_order,.button.checkout,.checkout-button,.single_add_to_cart_button.button{background-color:#35CE9D!important;color:#171717}p:not(.stars,.product-title) a:not(.button,.woocommerce-loop-product__link),a.showlogin{background-image:linear-gradient(transparent calc(100% - 1px),currentColor 1px);background-position:100%;background-size:100% 100%;background-repeat:no-repeat;position:relative;transition:all .2s;padding-bottom:1px}p a:hover:not(.button),a.showlogin:hover{background-size:0 100%}.button.is-underline:hover:before{right:0;width:0;left:inherit}.button.is-underline:before{left:0;width:100%;opacity:1}u{text-underline-offset:3px}.dark .button.is-form:hover,.button:hover,input[type=submit]:hover,input[type=reset]:hover,input[type=button]:hover{-webkit-box-shadow:none;box-shadow:none}.is-small,.is-small.button{font-size:.9em}.button.shadow{box-shadow:0 20px 5px rgb(17 2 59 / .01),0 3px 3px rgb(17 2 59 / .04),0 1px 2px rgb(17 2 59 / .04),0 0 .5px rgb(17 2 59 / .08)!important}u{text-underline-offset:3px}.accordion-item .toggle i{font-size:1em}.dark .accordion-item{background:#262626}.accordion-item{background:#dfdcd8;margin-bottom:10px;border-radius:10px;padding:20px}.accordion-title{border-top:0;font-size:100%}.accordion-title.active{background-color:#fff0}.accordion-inner{padding:1em}.custom-menu .ux-menu-link__link{font-size:95%;background:#F3F9FD!important;margin-bottom:15px;margin-right:15px;padding:22px;border-radius:20px}.row-box-shadow-1>.col>.col-inner,.box-shadow-1,.nav-dropdown-has-shadow .nav-dropdown{box-shadow:2px 1px 20px rgb(41 52 98 / .08)}.text-gradient h3{background:#fff7eb;background:linear-gradient(80deg,#3f8efc 0,#ad06bd 100%);-webkit-background-clip:text;-webkit-text-fill-color:#fff0}.gradient-col .col-inner,.gradient-section{background:linear-gradient(180deg,#79C3FA 0,#9F6AEC 100%)}.green-gradient>.col-inner{background:linear-gradient(180deg,#35CE9D 0,#29A57D 100%)}.blue-gradient>.col-inner{background:#3381f7;background:linear-gradient(90deg,#3381f7 0,#1c284e 100%)}.purple-gradient>.col-inner{background:#ecbbfa;background:linear-gradient(180deg,#db7ffa 0,#370647 100%)}.yellow-gradient>.col-inner{background:linear-gradient(180deg,#FFC353 0,#CF8700 100%)}ol li{margin-bottom:20px}
+		</style>
+		<style id="kirki-inline-styles">/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(home/abpcover/myrepublicbandung.com/wp-content/fonts/lato/S6uyw4BMUTPHjxAwXjeu.html) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(home/abpcover/myrepublicbandung.com/wp-content/fonts/lato/S6uyw4BMUTPHjx4wXg.html) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(home/abpcover/myrepublicbandung.com/wp-content/fonts/lato/S6u9w4BMUTPHh6UVSwaPGR_p.html) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(home/abpcover/myrepublicbandung.com/wp-content/fonts/lato/S6u9w4BMUTPHh6UVSwiPGQ.html) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* vietnamese */
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(wp-content/fonts/dancing-script/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Rep8ltA.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(wp-content/fonts/dancing-script/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3ROp8ltA.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(wp-content/fonts/dancing-script/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup8.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}</style></head>
+
+<body class="home wp-singular page-template page-template-page-blank page-template-page-blank-php page page-id-2 wp-theme-flatsome wp-child-theme-flatsome-child lightbox nav-dropdown-has-arrow nav-dropdown-has-shadow nav-dropdown-has-border mobile-submenu-slide mobile-submenu-slide-levels-1">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5XLR9DL"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+<div id="wrapper">
+
+	
+	<header id="header" class="header has-sticky sticky-jump">
+		<div class="header-wrapper">
+			<div id="masthead" class="header-main ">
+      <div class="header-inner flex-row container logo-left medium-logo-center" role="navigation">
+
+          <!-- Logo -->
+          <div id="logo" class="flex-col logo">
+            
+<!-- Header logo -->
+<a href="index.html" title="Pasang Internet Myrepublic Bandung - Sales Resmi Myrepublic Area Bandung &amp; Sekitarnya" rel="home">
+		<img width="520" height="130" src="wp-content/uploads/2024/09/myrepublic-logo.png" class="header_logo header-logo" alt="Pasang Internet Myrepublic Bandung"/><img  width="520" height="130" src="wp-content/uploads/2024/09/myrepublic-logo.png" class="header-logo-dark" alt="Pasang Internet Myrepublic Bandung"/></a>
+          </div>
+
+          <!-- Mobile Left Elements -->
+          <div class="flex-col show-for-medium flex-left">
+            <ul class="mobile-nav nav nav-left ">
+              <li class="nav-icon has-icon">
+  <div class="header-button">		<a href="#" data-open="#main-menu" data-pos="left" data-bg="main-menu-overlay" data-color="" class="icon primary button round is-small" aria-label="Menu" aria-controls="main-menu" aria-expanded="false">
+
+		  <i class="icon-menu" ></i>
+		  		</a>
+	 </div> </li>
+            </ul>
+          </div>
+
+          <!-- Left Elements -->
+          <div class="flex-col hide-for-medium flex-left
+            flex-grow">
+            <ul class="header-nav header-nav-main nav nav-left  nav-size-medium nav-uppercase" >
+              <li id="menu-item-89" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-89 active menu-item-design-default"><a href="index.html#paket" aria-current="page" class="nav-top-link">Paket Internet</a></li>
+<li id="menu-item-90" class="label-sale menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-90 active menu-item-design-default"><a href="index.html#promo" aria-current="page" class="nav-top-link">Promo</a></li>
+<li id="menu-item-91" class="label-new menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-91 active menu-item-design-default"><a href="index.html#addon" aria-current="page" class="nav-top-link">Addon</a></li>
+<li id="menu-item-92" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-92 active menu-item-design-default"><a href="index.html#kontak" aria-current="page" class="nav-top-link">Kontak Sales</a></li>
+            </ul>
+          </div>
+
+          <!-- Right Elements -->
+          <div class="flex-col hide-for-medium flex-right">
+            <ul class="header-nav header-nav-main nav nav-right  nav-size-medium nav-uppercase">
+              <li class="html header-button-1">
+	<div class="header-button">
+		<a href="https://api.whatsapp.com/send?phone=6285798335128&amp;text=Haloadmin.SayamauberlanggananMyRepublic" class="button primary is-small box-shadow-1 lowercase"  style="border-radius:30px;">
+		<span>Langganan</span>
+	</a>
+	</div>
+</li>
+            </ul>
+          </div>
+
+          <!-- Mobile Right Elements -->
+          <div class="flex-col show-for-medium flex-right">
+            <ul class="mobile-nav nav nav-right ">
+              <li class="html header-button-1">
+	<div class="header-button">
+		<a href="https://api.whatsapp.com/send?phone=6285798335128&amp;text=Haloadmin.SayamauberlanggananMyRepublic" class="button primary is-small box-shadow-1 lowercase"  style="border-radius:30px;">
+		<span>Langganan</span>
+	</a>
+	</div>
+</li>
+            </ul>
+          </div>
+
+      </div>
+
+            <div class="container"><div class="top-divider full-width"></div></div>
+      </div>
+
+<div class="header-bg-container fill"><div class="header-bg-image fill"></div><div class="header-bg-color fill"></div></div>		</div>
+	</header>
+
+	
+	<main id="main" class="">
+
+
+<div id="content" role="main" class="content-area">
+
+		
+			
+
+	<section class="section dark" id="section_480918836">
+		<div class="section-bg fill" >
+			<img fetchpriority="high" decoding="async" width="1080" height="607" src="wp-content/uploads/2024/10/banner-myrep.jpg" class="bg attachment- size-" alt="" />						<div class="section-bg-overlay absolute fill"></div>
+			
+
+		</div>
+
+		
+
+		<div class="section-content relative">
+			
+
+	<div id="gap-1711691292" class="gap-element clearfix" style="display:block; height:auto;">
+		
+<style>
+#gap-1711691292 {
+  padding-top: 30px;
+}
+</style>
+	</div>
+	
+
+<div class="row align-center"  id="row-2104851775">
+
+
+	<div id="col-1916251554" class="col medium-12 small-12 large-6"  >
+				<div class="col-inner"  >
+			
+			
+
+	<div id="gap-487393325" class="gap-element clearfix" style="display:block; height:auto;">
+		
+<style>
+#gap-487393325 {
+  padding-top: 10px;
+}
+@media (min-width:550px) {
+  #gap-487393325 {
+    padding-top: 20px;
+  }
+}
+@media (min-width:850px) {
+  #gap-487393325 {
+    padding-top: 30px;
+  }
+}
+</style>
+	</div>
+	
+
+	<div id="text-219088280" class="text">
+		
+
+<h1>Internet MyRepublic Bandung</h1>
+		
+<style>
+#text-219088280 {
+  font-size: 1.55rem;
+}
+</style>
+	</div>
+	
+<p>Dengan kecepatan tinggi dan jaringan yang stabil, Anda bisa menikmati streaming, gaming, dan browsing tanpa hambatan.</p>
+<a href="https://api.whatsapp.com/send/?phone=6285798335128&amp;text=Halo%2C+saya+mau+langganan+MyRepublic...&amp;type=phone_number&amp;app_absent=0" class="button primary lowercase button-gradient"  style="border-radius:27px;padding:15px 30px 15px 30px;">
+		<span>Langganan Sekarang</span>
+	<i class="icon-angle-right" aria-hidden="true" ></i></a>
+
+
+
+		</div>
+				
+<style>
+#col-1916251554 > .col-inner {
+  padding: 0px 10% 0px 0px;
+}
+</style>
+	</div>
+
+	
+
+</div>
+
+		</div>
+
+		
+<style>
+#section_480918836 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  min-height: 820px;
+}
+#section_480918836 .section-bg-overlay {
+  background-color: rgba(38, 36, 40, 0.767);
+}
+#section_480918836 .section-bg img {
+  object-position: 76% 36%;
+}
+</style>
+	</section>
+	
+<div class="row"  id="row-1083867691">
+
+
+	<div id="col-948554773" class="col small-12 large-12"  >
+				<div class="col-inner"  >
+			
+			
+
+	<div id="text-1740444134" class="text">
+		
+
+<h2>Langgananan Internet MyRepublic</h2>
+<h1>Tentukan Bandwidth Sesuai Kebutuhanmu</h1>
+<p>Sekarang saatnya menikmati kecepatan baru internet fiber ultra cepat dan unlimited dari MyRepublic Bandung</p>
+		
+<style>
+#text-1740444134 {
+  text-align: center;
+}
+</style>
+	</div>
+	
+
+		</div>
+					</div>
+
+	
+
+</div>
+
+	<section class="section" id="section_2068949954">
+		<div class="section-bg fill" >
+									
+			
+
+		</div>
+
+		
+
+		<div class="section-content relative">
+			
+
+<div class="row hide-for-small"  id="row-440875986">
+
+
+	<div id="col-2027567750" class="col hide-for-small small-12 large-12"  >
+				<div class="col-inner"  >
+			
+			
+
+<span class="scroll-to" data-label="Scroll to: #paket" data-bullet="false" data-link="#paket" data-title="paket" ><a name="paket"></a></span>
+
+
+		<div class="tabbed-content">
+			
+			<ul class="nav nav-pills nav-normal nav-size-large nav-left" role="tablist"><li id="tab-internet-fiber" class="tab active has-icon" role="presentation"><a href="#tab_internet-fiber" role="tab" aria-selected="true" aria-controls="tab_internet-fiber"><span>Internet Fiber</span></a></li>
+<li id="tab-combo-internet-+-tv" class="tab has-icon" role="presentation"><a href="#tab_combo-internet-+-tv" tabindex="-1" role="tab" aria-selected="false" aria-controls="tab_combo-internet-+-tv"><span>Combo Internet + TV</span></a></li></ul><div class="tab-panels"><div id="tab_internet-fiber" class="panel active entry-content" role="tabpanel" aria-labelledby="tab-internet-fiber">
+
+<div class="slider-wrapper relative" id="slider-545582145" >
+    <div class="slider slider-nav-dots-dashes-spaced slider-nav-circle slider-nav-normal slider-nav-dark slider-nav-outside slider-style-focus slider-show-nav"
+        data-flickity-options='{
+            "cellAlign": "left",
+            "imagesLoaded": true,
+            "lazyLoad": 1,
+            "freeScroll": true,
+            "wrapAround": true,
+            "autoPlay": 6000,
+            "pauseAutoPlayOnHover" : true,
+            "prevNextButtons": true,
+            "contain" : true,
+            "adaptiveHeight" : true,
+            "dragThreshold" : 10,
+            "percentPosition": true,
+            "pageDots": false,
+            "rightToLeft": false,
+            "draggable": true,
+            "selectedAttraction": 0.1,
+            "parallax" : 0,
+            "friction": 0.6        }'
+        >
+        
+
+<div class="row row-small align-equal"  id="row-962677910">
+
+
+	<div id="col-1123825538" class="col round-corner medium-4 small-11 large-4"  >
+				<div class="col-inner text-center"  >
+			
+			
+
+	<div class="box has-hover round-corners  has-hover box-text-bottom" >
+
+		<div class="box-image" >
+						<div class="" >
+				<img decoding="async" width="360" height="216" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20360%20216%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/30_Mbps_492badd739.webp" class="lazy-load attachment- size-" alt="" srcset="" data-srcset="https://myrepublic-bandung.net/wp-content/uploads/2024/09/30_Mbps_492badd739.webp 360w, https://myrepublic-bandung.net/wp-content/uploads/2024/09/30_Mbps_492badd739-300x180.webp 300w" sizes="(max-width: 360px) 100vw, 360px" />											</div>
+					</div>
+
+		<div class="box-text text-center" >
+			<div class="box-text-inner">
+				
+
+	<div id="text-3646579952" class="text">
+		
+
+<h4>Value 30</h4>
+<h3>30Mbps</h3>
+<p>Rp 235.000/Bulan</p>
+<p><small><s><span style="color: #ed1c24;">Rp 300.000</s> <span style="color: #ed1c24;">&#8211; 36%</span></small></p>
+
+		
+<style>
+#text-3646579952 {
+  font-size: 1rem;
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+	<div id="text-3914247907" class="text">
+		
+
+<p><small>Harga belum termasuk PPn 11%</small></p>
+		
+<style>
+#text-3914247907 {
+  text-align: center;
+}
+</style>
+	</div>
+	
+<a href="https://api.whatsapp.com/send?phone=6285798335128&amp;text=Halo%20admin.%20Saya%20mau%20berlangganan%20MyRepublic" class="button primary is-small lowercase"  style="border-radius:10px;">
+		<span>Langganan Sekarang</span>
+	</a>
+
+
+
+		</div>
+				
+<style>
+#col-1123825538 > .col-inner {
+  border-radius: 10px;
+}
+</style>
+	</div>
+
+	
+
+	<div id="col-1928194554" class="col round-corner medium-4 small-11 large-4"  >
+				<div class="col-inner text-center"  >
+			
+			
+
+	<div class="box has-hover round-corners  has-hover box-text-bottom" >
+
+		<div class="box-image" >
+						<div class="" >
+				<img decoding="async" width="360" height="216" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20360%20216%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_02_c4a886f673.webp" class="lazy-load attachment- size-" alt="" srcset="" data-srcset="https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_02_c4a886f673.webp 360w, https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_02_c4a886f673-300x180.webp 300w" sizes="(max-width: 360px) 100vw, 360px" />											</div>
+					</div>
+
+		<div class="box-text text-center" >
+			<div class="box-text-inner">
+				
+
+	<div id="text-1717027249" class="text">
+		
+
+<h4>Fast 50</h4>
+<h3>50Mbps</h3>
+<p>Rp 249.999/Bulan</p>
+<p><small><s><span style="color: #ed1c24;">Rp 409.009</s> <span style="color: #ed1c24;">&#8211; 39%</span></small></p>
+		
+<style>
+#text-1717027249 {
+  font-size: 1rem;
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+	<div id="text-1730861723" class="text">
+		
+
+<p><small>Harga belum termasuk PPn 11%</small></p>
+		
+<style>
+#text-1730861723 {
+  text-align: center;
+}
+</style>
+	</div>
+	
+<a href="https://api.whatsapp.com/send?phone=6285798335128&amp;text=Halo%20admin.%20Saya%20mau%20berlangganan%20MyRepublic" class="button primary is-small lowercase"  style="border-radius:10px;">
+		<span>Langganan Sekarang</span>
+	</a>
+
+
+
+		</div>
+				
+<style>
+#col-1928194554 > .col-inner {
+  border-radius: 10px;
+}
+</style>
+	</div>
+
+	
+
+	<div id="col-1825840989" class="col round-corner medium-4 small-11 large-4"  >
+				<div class="col-inner text-center"  >
+			
+			
+
+	<div class="box has-hover round-corners  has-hover box-text-bottom" >
+
+		<div class="box-image" >
+						<div class="" >
+				<img decoding="async" width="360" height="216" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20360%20216%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_03_8675fb4207.webp" class="lazy-load attachment- size-" alt="" srcset="" data-srcset="https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_03_8675fb4207.webp 360w, https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_03_8675fb4207-300x180.webp 300w" sizes="auto, (max-width: 360px) 100vw, 360px" />											</div>
+					</div>
+
+		<div class="box-text text-center" >
+			<div class="box-text-inner">
+				
+
+	<div id="text-1225139180" class="text">
+		
+
+<h4>Nova 100</h4>
+<h3>100Mbps</h3>
+<p>Rp 299.999/Bulan</p>
+<p><small><s><span style="color: #ed1c24;">Rp 639.640</s> <span style="color: #ed1c24;">&#8211; 54%</span></small></p>
+		
+<style>
+#text-1225139180 {
+  font-size: 1rem;
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+	<div id="text-2510941920" class="text">
+		
+
+<p><small>Harga belum termasuk PPn 11%</small></p>
+		
+<style>
+#text-2510941920 {
+  text-align: center;
+}
+</style>
+	</div>
+	
+<a href="https://api.whatsapp.com/send?phone=6285798335128&amp;text=Halo%20admin.%20Saya%20mau%20berlangganan%20MyRepublic" class="button primary is-small lowercase"  style="border-radius:10px;">
+		<span>Langganan Sekarang</span>
+	</a>
+
+
+
+		</div>
+				
+<style>
+#col-1825840989 > .col-inner {
+  border-radius: 10px;
+}
+</style>
+	</div>
+
+	
+
+
+<style>
+#row-962677910 > .col > .col-inner {
+  background-color: rgb(244, 244, 244);
+}
+</style>
+</div>
+<div class="row row-small align-equal"  id="row-2117358657">
+
+
+	<div id="col-222258528" class="col round-corner medium-4 small-11 large-4"  >
+				<div class="col-inner text-center"  >
+			
+			
+
+	<div class="box has-hover round-corners  has-hover box-text-bottom" >
+
+		<div class="box-image" >
+						<div class="" >
+				<img decoding="async" width="360" height="216" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20360%20216%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_04_27524acf1c.webp" class="lazy-load attachment- size-" alt="" srcset="" data-srcset="https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_04_27524acf1c.webp 360w, https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_04_27524acf1c-300x180.webp 300w" sizes="auto, (max-width: 360px) 100vw, 360px" />											</div>
+					</div>
+
+		<div class="box-text text-center" >
+			<div class="box-text-inner">
+				
+
+	<div id="text-280813366" class="text">
+		
+
+<h4>MyGamer 250</h4>
+<h3>250Mbps</h3>
+<p>Rp 399.999/Bulan</p>
+<p><small><s><span style="color: #ed1c24;">Rp 749.550</s> <span style="color: #ed1c24;">&#8211; 47%</span></small></p>
+		
+<style>
+#text-280813366 {
+  font-size: 1rem;
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+	<div id="text-1116068120" class="text">
+		
+
+<p><small>Harga belum termasuk PPn 11%</small></p>
+		
+<style>
+#text-1116068120 {
+  text-align: center;
+}
+</style>
+	</div>
+	
+<a href="https://api.whatsapp.com/send?phone=6285798335128&amp;text=Halo%20admin.%20Saya%20mau%20berlangganan%20MyRepublic" class="button primary is-small lowercase"  style="border-radius:10px;">
+		<span>Langganan Sekarang</span>
+	</a>
+
+
+
+		</div>
+				
+<style>
+#col-222258528 > .col-inner {
+  border-radius: 10px;
+}
+</style>
+	</div>
+
+	
+
+	<div id="col-1381050745" class="col round-corner medium-4 small-11 large-4"  >
+				<div class="col-inner text-center"  >
+			
+			
+
+	<div class="box has-hover round-corners  has-hover box-text-bottom" >
+
+		<div class="box-image" >
+						<div class="" >
+				<img decoding="async" width="360" height="216" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20360%20216%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_05_1_75c1eaa5f5.webp" class="lazy-load attachment- size-" alt="" srcset="" data-srcset="https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_05_1_75c1eaa5f5.webp 360w, https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_05_1_75c1eaa5f5-300x180.webp 300w" sizes="auto, (max-width: 360px) 100vw, 360px" />											</div>
+					</div>
+
+		<div class="box-text text-center" >
+			<div class="box-text-inner">
+				
+
+	<div id="text-935559432" class="text">
+		
+
+<h4>Prime 500</h4>
+<h3>500Mbps</h3>
+<p>Rp 499.999/Bulan</p>
+<p><small><s><span style="color: #ed1c24;">Rp 850.000</s> <span style="color: #ed1c24;">&#8211; 42%</span></small></p>
+		
+<style>
+#text-935559432 {
+  font-size: 1rem;
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+	<div id="text-1764697522" class="text">
+		
+
+<p><small>Harga belum termasuk PPn 11%</small></p>
+		
+<style>
+#text-1764697522 {
+  text-align: center;
+}
+</style>
+	</div>
+	
+<a href="https://api.whatsapp.com/send?phone=6285798335128&amp;text=Halo%20admin.%20Saya%20mau%20berlangganan%20MyRepublic" class="button primary is-small lowercase"  style="border-radius:10px;">
+		<span>Langganan Sekarang</span>
+	</a>
+
+
+
+		</div>
+				
+<style>
+#col-1381050745 > .col-inner {
+  border-radius: 10px;
+}
+</style>
+	</div>
+
+	
+
+	<div id="col-2007403403" class="col round-corner medium-4 small-11 large-4"  >
+				<div class="col-inner text-center"  >
+			
+			
+
+	<div class="box has-hover round-corners  has-hover box-text-bottom" >
+
+		<div class="box-image" >
+						<div class="" >
+				<img decoding="async" width="360" height="216" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20360%20216%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/30_Mbps_492badd739.webp" class="lazy-load attachment- size-" alt="" srcset="" data-srcset="https://myrepublic-bandung.net/wp-content/uploads/2024/09/30_Mbps_492badd739.webp 360w, https://myrepublic-bandung.net/wp-content/uploads/2024/09/30_Mbps_492badd739-300x180.webp 300w" sizes="(max-width: 360px) 100vw, 360px" />											</div>
+					</div>
+
+		<div class="box-text text-center" >
+			<div class="box-text-inner">
+				
+
+	<div id="text-3536913470" class="text">
+		
+
+<h4>Value 30</h4>
+<h3>30Mbps</h3>
+<p>Rp 200.000/Bulan</p>
+<p><small><s><span style="color: #ed1c24;">Rp 300.000</s> <span style="color: #ed1c24;">&#8211; 36%</span></small></p>
+		
+<style>
+#text-3536913470 {
+  font-size: 1rem;
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+	<div id="text-605380882" class="text">
+		
+
+<p><small>Harga belum termasuk PPn 11%</small></p>
+		
+<style>
+#text-605380882 {
+  text-align: center;
+}
+</style>
+	</div>
+	
+<a href="https://api.whatsapp.com/send?phone=6285798335128&amp;text=Halo%20admin.%20Saya%20mau%20berlangganan%20MyRepublic" class="button primary is-small lowercase"  style="border-radius:10px;">
+		<span>Langganan Sekarang</span>
+	</a>
+
+
+
+		</div>
+				
+<style>
+#col-2007403403 > .col-inner {
+  border-radius: 10px;
+}
+</style>
+	</div>
+
+	
+
+
+<style>
+#row-2117358657 > .col > .col-inner {
+  background-color: rgb(244, 244, 244);
+}
+</style>
+</div>
+
+     </div>
+
+     <div class="loading-spin dark large centered"></div>
+
+	
+<style>
+#slider-545582145 .flickity-slider > * {
+  max-width: 1080px!important;
+}
+</style>
+</div>
+
+
+
+</div>
+<div id="tab_combo-internet-+-tv" class="panel entry-content" role="tabpanel" aria-labelledby="tab-combo-internet-+-tv">
+
+<div class="slider-wrapper relative" id="slider-990235256" >
+    <div class="slider slider-nav-dots-dashes-spaced slider-nav-circle slider-nav-normal slider-nav-dark slider-nav-outside slider-style-focus slider-show-nav"
+        data-flickity-options='{
+            "cellAlign": "left",
+            "imagesLoaded": true,
+            "lazyLoad": 1,
+            "freeScroll": true,
+            "wrapAround": true,
+            "autoPlay": 6000,
+            "pauseAutoPlayOnHover" : true,
+            "prevNextButtons": true,
+            "contain" : true,
+            "adaptiveHeight" : true,
+            "dragThreshold" : 10,
+            "percentPosition": true,
+            "pageDots": false,
+            "rightToLeft": false,
+            "draggable": true,
+            "selectedAttraction": 0.1,
+            "parallax" : 0,
+            "friction": 0.6        }'
+        >
+        
+
+<div class="row row-small align-equal"  id="row-933532235">
+
+
+	<div id="col-605460460" class="col round-corner medium-4 small-11 large-4"  >
+				<div class="col-inner text-center"  >
+			
+			
+
+	<div class="box has-hover round-corners  has-hover box-text-bottom" >
+
+		<div class="box-image" >
+						<div class="" >
+				<img decoding="async" width="360" height="216" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20360%20216%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/THUMBNAIL_PRODUCT_VALUE_30_copy_2391d02613.webp" class="lazy-load attachment- size-" alt="" srcset="" data-srcset="https://myrepublic-bandung.net/wp-content/uploads/2024/09/THUMBNAIL_PRODUCT_VALUE_30_copy_2391d02613.webp 360w, https://myrepublic-bandung.net/wp-content/uploads/2024/09/THUMBNAIL_PRODUCT_VALUE_30_copy_2391d02613-300x180.webp 300w" sizes="auto, (max-width: 360px) 100vw, 360px" />											</div>
+					</div>
+
+		<div class="box-text text-center" >
+			<div class="box-text-inner">
+				
+
+	<div id="text-2516482601" class="text">
+		
+
+<h4>Value 30 Combo TV</h4>
+<h3>30Mbps</h3>
+<p>Rp 319.999/Bulan</p>
+<p><small><s><span style="color: #ed1c24;">Rp 394.010</s> <span style="color: #ed1c24;">&#8211; 19%</span></small></p>
+		
+<style>
+#text-2516482601 {
+  font-size: 1rem;
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+	<div id="text-642800537" class="text">
+		
+
+<p><small>Harga belum termasuk PPn 11%</small></p>
+		
+<style>
+#text-642800537 {
+  text-align: center;
+}
+</style>
+	</div>
+	
+<a href="https://api.whatsapp.com/send/?phone=6285798335128&amp;text=Halo%2C+saya+mau+langganan+MyRepublic.." class="button primary is-small lowercase"  style="border-radius:10px;">
+		<span>Langganan Sekarang</span>
+	</a>
+
+
+
+		</div>
+				
+<style>
+#col-605460460 > .col-inner {
+  border-radius: 10px;
+}
+</style>
+	</div>
+
+	
+
+	<div id="col-492610383" class="col round-corner medium-4 small-11 large-4"  >
+				<div class="col-inner text-center"  >
+			
+			
+
+	<div class="box has-hover round-corners  has-hover box-text-bottom" >
+
+		<div class="box-image" >
+						<div class="" >
+				<img decoding="async" width="360" height="216" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20360%20216%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/THUMBNAIL_PRODUCT_FAST_50_copy_a7b510680c.webp" class="lazy-load attachment- size-" alt="" srcset="" data-srcset="https://myrepublic-bandung.net/wp-content/uploads/2024/09/THUMBNAIL_PRODUCT_FAST_50_copy_a7b510680c.webp 360w, https://myrepublic-bandung.net/wp-content/uploads/2024/09/THUMBNAIL_PRODUCT_FAST_50_copy_a7b510680c-300x180.webp 300w" sizes="auto, (max-width: 360px) 100vw, 360px" />											</div>
+					</div>
+
+		<div class="box-text text-center" >
+			<div class="box-text-inner">
+				
+
+	<div id="text-3450756467" class="text">
+		
+
+<h4>Fast 50 Combo TV</h4>
+<h3>50Mbps</h3>
+<p>Rp 334.999/Bulan</p>
+<p><small><s><span style="color: #ed1c24;">Rp 494.009</s> <span style="color: #ed1c24;">&#8211; 33%</span></small></p>
+		
+<style>
+#text-3450756467 {
+  font-size: 1rem;
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+	<div id="text-3443201129" class="text">
+		
+
+<p><small>Harga belum termasuk PPn 11%</small></p>
+		
+<style>
+#text-3443201129 {
+  text-align: center;
+}
+</style>
+	</div>
+	
+<a href="https://api.whatsapp.com/send/?phone=6285798335128&amp;text=Halo%2C+saya+mau+langganan+MyRepublic.." class="button primary is-small lowercase"  style="border-radius:10px;">
+		<span>Langganan Sekarang</span>
+	</a>
+
+
+
+		</div>
+				
+<style>
+#col-492610383 > .col-inner {
+  border-radius: 10px;
+}
+</style>
+	</div>
+
+	
+
+	<div id="col-932193286" class="col round-corner medium-4 small-11 large-4"  >
+				<div class="col-inner text-center"  >
+			
+			
+
+	<div class="box has-hover round-corners  has-hover box-text-bottom" >
+
+		<div class="box-image" >
+						<div class="" >
+				<img decoding="async" width="360" height="216" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20360%20216%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/THUMBNAIL_PRODUCT_NOVA_100_copy_cdc299ba74.webp" class="lazy-load attachment- size-" alt="" srcset="" data-srcset="https://myrepublic-bandung.net/wp-content/uploads/2024/09/THUMBNAIL_PRODUCT_NOVA_100_copy_cdc299ba74.webp 360w, https://myrepublic-bandung.net/wp-content/uploads/2024/09/THUMBNAIL_PRODUCT_NOVA_100_copy_cdc299ba74-300x180.webp 300w" sizes="auto, (max-width: 360px) 100vw, 360px" />											</div>
+					</div>
+
+		<div class="box-text text-center" >
+			<div class="box-text-inner">
+				
+
+	<div id="text-833563208" class="text">
+		
+
+<h4>Nova 100 Combo TV</h4>
+<h3>100Mbps</h3>
+<p>Rp 384.999/Bulan</p>
+<p><small><s><span style="color: #ed1c24;">Rp 724.640</s> <span style="color: #ed1c24;">&#8211; 47%</span></small></p>
+		
+<style>
+#text-833563208 {
+  font-size: 1rem;
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+	<div id="text-4115070314" class="text">
+		
+
+<p><small>Harga belum termasuk PPn 11%</small></p>
+		
+<style>
+#text-4115070314 {
+  text-align: center;
+}
+</style>
+	</div>
+	
+<a href="https://api.whatsapp.com/send/?phone=6285798335128&amp;text=Halo%2C+saya+mau+langganan+MyRepublic.." class="button primary is-small lowercase"  style="border-radius:10px;">
+		<span>Langganan Sekarang</span>
+	</a>
+
+
+
+		</div>
+				
+<style>
+#col-932193286 > .col-inner {
+  border-radius: 10px;
+}
+</style>
+	</div>
+
+	
+
+
+<style>
+#row-933532235 > .col > .col-inner {
+  background-color: rgb(244, 244, 244);
+}
+</style>
+</div>
+<div class="row row-small align-equal"  id="row-1895189765">
+
+
+	<div id="col-948299553" class="col round-corner medium-4 small-11 large-4"  >
+				<div class="col-inner text-center"  >
+			
+			
+
+	<div class="box has-hover round-corners  has-hover box-text-bottom" >
+
+		<div class="box-image" >
+						<div class="" >
+				<img decoding="async" width="360" height="216" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20360%20216%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/THUMBNAIL_PRODUCT_MYGAMER_250_copy_0289122657.webp" class="lazy-load attachment- size-" alt="" srcset="" data-srcset="https://myrepublic-bandung.net/wp-content/uploads/2024/09/THUMBNAIL_PRODUCT_MYGAMER_250_copy_0289122657.webp 360w, https://myrepublic-bandung.net/wp-content/uploads/2024/09/THUMBNAIL_PRODUCT_MYGAMER_250_copy_0289122657-300x180.webp 300w" sizes="auto, (max-width: 360px) 100vw, 360px" />											</div>
+					</div>
+
+		<div class="box-text text-center" >
+			<div class="box-text-inner">
+				
+
+	<div id="text-215559391" class="text">
+		
+
+<h4>MyGamer 250 Combo TV</h4>
+<h3>250Mbps</h3>
+<p>Rp 484.999/Bulan</p>
+<p><small><s><span style="color: #ed1c24;">Rp 834.550</s> <span style="color: #ed1c24;">&#8211; 42%</span></small></p>
+		
+<style>
+#text-215559391 {
+  font-size: 1rem;
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+	<div id="text-3113335954" class="text">
+		
+
+<p><small>Harga belum termasuk PPn 11%</small></p>
+		
+<style>
+#text-3113335954 {
+  text-align: center;
+}
+</style>
+	</div>
+	
+<a href="https://api.whatsapp.com/send/?phone=6285798335128&amp;text=Halo%2C+saya+mau+langganan+MyRepublic.." class="button primary is-small lowercase"  style="border-radius:10px;">
+		<span>Langganan Sekarang</span>
+	</a>
+
+
+
+		</div>
+				
+<style>
+#col-948299553 > .col-inner {
+  border-radius: 10px;
+}
+</style>
+	</div>
+
+	
+
+	<div id="col-197586899" class="col round-corner medium-4 small-11 large-4"  >
+				<div class="col-inner text-center"  >
+			
+			
+
+	<div class="box has-hover round-corners  has-hover box-text-bottom" >
+
+		<div class="box-image" >
+						<div class="" >
+				<img decoding="async" width="360" height="216" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20360%20216%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_05_1_75c1eaa5f5.webp" class="lazy-load attachment- size-" alt="" srcset="" data-srcset="https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_05_1_75c1eaa5f5.webp 360w, https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_05_1_75c1eaa5f5-300x180.webp 300w" sizes="auto, (max-width: 360px) 100vw, 360px" />											</div>
+					</div>
+
+		<div class="box-text text-center" >
+			<div class="box-text-inner">
+				
+
+	<div id="text-2019908936" class="text">
+		
+
+<h4>Prime 500 Combo TV</h4>
+<h3>500Mbps</h3>
+<p>Rp 584.999/Bulan</p>
+<p><small><s><span style="color: #ed1c24;">Rp 935.000</s> <span style="color: #ed1c24;">&#8211; 38%</span></small></p>
+		
+<style>
+#text-2019908936 {
+  font-size: 1rem;
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+	<div id="text-1371464144" class="text">
+		
+
+<p><small>Harga belum termasuk PPn 11%</small></p>
+		
+<style>
+#text-1371464144 {
+  text-align: center;
+}
+</style>
+	</div>
+	
+<a href="https://api.whatsapp.com/send/?phone=6285798335128&amp;text=Halo%2C+saya+mau+langganan+MyRepublic.." class="button primary is-small lowercase"  style="border-radius:10px;">
+		<span>Langganan Sekarang</span>
+	</a>
+
+
+
+		</div>
+				
+<style>
+#col-197586899 > .col-inner {
+  border-radius: 10px;
+}
+</style>
+	</div>
+
+	
+
+	<div id="col-733538244" class="col round-corner medium-4 small-11 large-4"  >
+				<div class="col-inner text-center"  >
+			
+			
+
+	<div class="box has-hover round-corners  has-hover box-text-bottom" >
+
+		<div class="box-image" >
+						<div class="" >
+				<img decoding="async" width="360" height="216" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20360%20216%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/THUMBNAIL_PRODUCT_VALUE_30_copy_2391d02613.webp" class="lazy-load attachment- size-" alt="" srcset="" data-srcset="https://myrepublic-bandung.net/wp-content/uploads/2024/09/THUMBNAIL_PRODUCT_VALUE_30_copy_2391d02613.webp 360w, https://myrepublic-bandung.net/wp-content/uploads/2024/09/THUMBNAIL_PRODUCT_VALUE_30_copy_2391d02613-300x180.webp 300w" sizes="auto, (max-width: 360px) 100vw, 360px" />											</div>
+					</div>
+
+		<div class="box-text text-center" >
+			<div class="box-text-inner">
+				
+
+	<div id="text-1804172595" class="text">
+		
+
+<h4>Value 30 Combo TV</h4>
+<h3>30Mbps</h3>
+<p>Rp 319.999/Bulan</p>
+<p><small><s><span style="color: #ed1c24;">Rp 394.010</s> <span style="color: #ed1c24;">&#8211; 19%</span></small></p>
+		
+<style>
+#text-1804172595 {
+  font-size: 1rem;
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+	<div id="text-2469019824" class="text">
+		
+
+<p><small>Harga belum termasuk PPn 11%</small></p>
+		
+<style>
+#text-2469019824 {
+  text-align: center;
+}
+</style>
+	</div>
+	
+<a href="https://api.whatsapp.com/send/?phone=6285798335128&amp;text=Halo%2C+saya+mau+langganan+MyRepublic.." class="button primary is-small lowercase"  style="border-radius:10px;">
+		<span>Langganan Sekarang</span>
+	</a>
+
+
+
+		</div>
+				
+<style>
+#col-733538244 > .col-inner {
+  border-radius: 10px;
+}
+</style>
+	</div>
+
+	
+
+
+<style>
+#row-1895189765 > .col > .col-inner {
+  background-color: rgb(244, 244, 244);
+}
+</style>
+</div>
+
+     </div>
+
+     <div class="loading-spin dark large centered"></div>
+
+	
+<style>
+#slider-990235256 .flickity-slider > * {
+  max-width: 1080px!important;
+}
+</style>
+</div>
+
+
+<div class="row row-collapse align-middle align-center"  id="row-62134392">
+
+
+	<div id="col-1319099813" class="col medium-6 small-12 large-6"  >
+				<div class="col-inner text-left"  >
+			
+			
+
+	<div class="box has-hover   has-hover box-text-bottom" >
+
+		<div class="box-image" style="width:23%;">
+						<div class="" >
+				<img decoding="async" width="128" height="25" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20128%2025%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/ott_vidio_platinum_ca7edd2947.webp" class="lazy-load attachment-original size-original" alt="" />											</div>
+					</div>
+
+		<div class="box-text text-center" style="padding:0px 10px 0px 0px;">
+			<div class="box-text-inner">
+				
+
+	<div id="text-3815886850" class="text">
+		
+
+<p>Free 12 Bulan</p>
+		
+<style>
+#text-3815886850 {
+  text-align: center;
+  color: rgb(203, 21, 21);
+}
+#text-3815886850 > * {
+  color: rgb(203, 21, 21);
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+
+		</div>
+				
+<style>
+#col-1319099813 > .col-inner {
+  margin: 0px 0px 0px 100px;
+}
+</style>
+	</div>
+
+	
+
+	<div id="col-24754064" class="col medium-6 small-12 large-6"  >
+				<div class="col-inner text-left"  >
+			
+			
+
+	<div class="box has-hover   has-hover box-text-bottom" >
+
+		<div class="box-image" style="width:23%;">
+						<div class="" >
+				<img decoding="async" width="120" height="38" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20120%2038%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/genflix.cd62815c.png" class="lazy-load attachment-original size-original" alt="" />											</div>
+					</div>
+
+		<div class="box-text text-center" style="padding:0px 10px 0px 0px;">
+			<div class="box-text-inner">
+				
+
+	<div id="text-4130325192" class="text">
+		
+
+<p>Free 12 Bulan</p>
+		
+<style>
+#text-4130325192 {
+  text-align: center;
+  color: rgb(203, 21, 21);
+}
+#text-4130325192 > * {
+  color: rgb(203, 21, 21);
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+
+		</div>
+				
+<style>
+#col-24754064 > .col-inner {
+  margin: 0px 0px 0px -100px;
+}
+</style>
+	</div>
+
+	
+
+</div>
+
+</div></div></div>
+
+		</div>
+					</div>
+
+	
+
+</div>
+
+		</div>
+
+		
+<style>
+#section_2068949954 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+</style>
+	</section>
+	
+
+	<section class="section" id="section_1295042886">
+		<div class="section-bg fill" >
+									
+			
+
+		</div>
+
+		
+
+		<div class="section-content relative">
+			
+
+<div class="row show-for-small"  id="row-1672979724">
+
+
+	<div id="col-1831124229" class="col show-for-small small-12 large-12"  >
+				<div class="col-inner"  >
+			
+			
+
+<span class="scroll-to" data-label="Scroll to: #paket" data-bullet="false" data-link="#paket" data-title="paket" ><a name="paket"></a></span>
+
+
+		<div class="tabbed-content">
+			
+			<ul class="nav nav-pills nav-normal nav-size-normal nav-left" role="tablist"><li id="tab-internet-fiber" class="tab active has-icon" role="presentation"><a href="#tab_internet-fiber" role="tab" aria-selected="true" aria-controls="tab_internet-fiber"><span>Internet Fiber</span></a></li>
+<li id="tab-combo-internet-+-tv" class="tab has-icon" role="presentation"><a href="#tab_combo-internet-+-tv" tabindex="-1" role="tab" aria-selected="false" aria-controls="tab_combo-internet-+-tv"><span>Combo Internet + TV</span></a></li></ul><div class="tab-panels"><div id="tab_internet-fiber" class="panel active entry-content" role="tabpanel" aria-labelledby="tab-internet-fiber">
+
+<div class="slider-wrapper relative" id="slider-571496522" >
+    <div class="slider slider-nav-circle slider-nav-large slider-nav-dark slider-style-focus slider-show-nav"
+        data-flickity-options='{
+            "cellAlign": "left",
+            "imagesLoaded": true,
+            "lazyLoad": 1,
+            "freeScroll": true,
+            "wrapAround": true,
+            "autoPlay": 4000,
+            "pauseAutoPlayOnHover" : true,
+            "prevNextButtons": true,
+            "contain" : true,
+            "adaptiveHeight" : true,
+            "dragThreshold" : 10,
+            "percentPosition": true,
+            "pageDots": true,
+            "rightToLeft": false,
+            "draggable": true,
+            "selectedAttraction": 0.1,
+            "parallax" : 0,
+            "friction": 0.6        }'
+        >
+        
+
+<div class="row row-large align-equal align-center"  id="row-600381583">
+
+
+	<div id="col-9739020" class="col round-corner medium-4 small-12 large-4"  >
+				<div class="col-inner text-center"  >
+			
+			
+
+	<div class="box has-hover round-corners  has-hover box-text-bottom" >
+
+		<div class="box-image" >
+						<div class="" >
+				<img decoding="async" width="360" height="216" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20360%20216%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/30_Mbps_492badd739.webp" class="lazy-load attachment- size-" alt="" srcset="" data-srcset="https://myrepublic-bandung.net/wp-content/uploads/2024/09/30_Mbps_492badd739.webp 360w, https://myrepublic-bandung.net/wp-content/uploads/2024/09/30_Mbps_492badd739-300x180.webp 300w" sizes="(max-width: 360px) 100vw, 360px" />											</div>
+					</div>
+
+		<div class="box-text text-center" >
+			<div class="box-text-inner">
+				
+
+	<div id="text-1928863485" class="text">
+		
+
+<h4>Value 30</h4>
+<h3>30Mbps</h3>
+<p>Rp 235.000/Bulan</p>
+<p><small><s><span style="color: #ed1c24;">Rp 300.000</s> <span style="color: #ed1c24;">&#8211; 36%</span></small></p>
+
+		
+<style>
+#text-1928863485 {
+  font-size: 1rem;
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+	<div id="text-3437174438" class="text">
+		
+
+<p><small>Harga belum termasuk PPn 11%</small></p>
+		
+<style>
+#text-3437174438 {
+  text-align: center;
+}
+</style>
+	</div>
+	
+<a href="https://api.whatsapp.com/send?phone=6285798335128&amp;text=Halo%20admin.%20Saya%20mau%20berlangganan%20MyRepublic" class="button primary is-small lowercase"  style="border-radius:10px;">
+		<span>Langganan Sekarang</span>
+	</a>
+
+
+
+		</div>
+				
+<style>
+#col-9739020 > .col-inner {
+  border-radius: 10px;
+}
+</style>
+	</div>
+
+	
+
+
+<style>
+#row-600381583 > .col > .col-inner {
+  background-color: rgb(244, 244, 244);
+}
+</style>
+</div>
+<div class="row row-large align-equal align-center"  id="row-16089009">
+
+
+	<div id="col-8690343" class="col round-corner medium-4 small-12 large-4"  >
+				<div class="col-inner text-center"  >
+			
+			
+
+	<div class="box has-hover round-corners  has-hover box-text-bottom" >
+
+		<div class="box-image" >
+						<div class="" >
+				<img decoding="async" width="360" height="216" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20360%20216%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_02_c4a886f673.webp" class="lazy-load attachment- size-" alt="" srcset="" data-srcset="https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_02_c4a886f673.webp 360w, https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_02_c4a886f673-300x180.webp 300w" sizes="(max-width: 360px) 100vw, 360px" />											</div>
+					</div>
+
+		<div class="box-text text-center" >
+			<div class="box-text-inner">
+				
+
+	<div id="text-3690658842" class="text">
+		
+
+<h4>Fast 50</h4>
+<h3>50Mbps</h3>
+<p>Rp 249.999/Bulan</p>
+<p><small><s><span style="color: #ed1c24;">Rp 409.009</s> <span style="color: #ed1c24;">&#8211; 39%</span></small></p>
+		
+<style>
+#text-3690658842 {
+  font-size: 1rem;
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+	<div id="text-1615642984" class="text">
+		
+
+<p><small>Harga belum termasuk PPn 11%</small></p>
+		
+<style>
+#text-1615642984 {
+  text-align: center;
+}
+</style>
+	</div>
+	
+<a href="https://api.whatsapp.com/send?phone=6285798335128&amp;text=Halo%20admin.%20Saya%20mau%20berlangganan%20MyRepublic" class="button primary is-small lowercase"  style="border-radius:10px;">
+		<span>Langganan Sekarang</span>
+	</a>
+
+
+
+		</div>
+				
+<style>
+#col-8690343 > .col-inner {
+  border-radius: 10px;
+}
+</style>
+	</div>
+
+	
+
+
+<style>
+#row-16089009 > .col > .col-inner {
+  background-color: rgb(244, 244, 244);
+}
+</style>
+</div>
+<div class="row row-large row-full-width align-equal align-center"  id="row-1509218488">
+
+
+	<div id="col-1116881424" class="col round-corner medium-4 small-12 large-4"  >
+				<div class="col-inner text-center"  >
+			
+			
+
+	<div class="box has-hover round-corners  has-hover box-text-bottom" >
+
+		<div class="box-image" >
+						<div class="" >
+				<img decoding="async" width="360" height="216" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20360%20216%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_03_8675fb4207.webp" class="lazy-load attachment- size-" alt="" srcset="" data-srcset="https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_03_8675fb4207.webp 360w, https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_03_8675fb4207-300x180.webp 300w" sizes="auto, (max-width: 360px) 100vw, 360px" />											</div>
+					</div>
+
+		<div class="box-text text-center is-large" >
+			<div class="box-text-inner">
+				
+
+	<div id="text-3383107096" class="text">
+		
+
+<h4>Nova 100</h4>
+<h3>100Mbps</h3>
+<p>Rp 299.999/Bulan</p>
+<p><small><s><span style="color: #ed1c24;">Rp 639.640</s> <span style="color: #ed1c24;">&#8211; 54%</span></small></p>
+		
+<style>
+#text-3383107096 {
+  font-size: 1rem;
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+	<div id="text-2834032530" class="text">
+		
+
+<p><small>Harga belum termasuk PPn 11%</small></p>
+		
+<style>
+#text-2834032530 {
+  text-align: center;
+}
+</style>
+	</div>
+	
+<a href="https://api.whatsapp.com/send?phone=6285798335128&amp;text=Halo%20admin.%20Saya%20mau%20berlangganan%20MyRepublic" class="button primary is-small lowercase"  style="border-radius:10px;">
+		<span>Langganan Sekarang</span>
+	</a>
+
+
+
+		</div>
+				
+<style>
+#col-1116881424 > .col-inner {
+  border-radius: 10px;
+}
+</style>
+	</div>
+
+	
+
+
+<style>
+#row-1509218488 > .col > .col-inner {
+  background-color: rgb(255,255,255);
+}
+</style>
+</div>
+<div class="row row-large row-full-width align-equal align-center"  id="row-941125979">
+
+
+	<div id="col-339183489" class="col round-corner medium-4 small-12 large-4"  >
+				<div class="col-inner text-center"  >
+			
+			
+
+	<div class="box has-hover round-corners  has-hover box-text-bottom" >
+
+		<div class="box-image" >
+						<div class="" >
+				<img decoding="async" width="360" height="216" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20360%20216%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_04_27524acf1c.webp" class="lazy-load attachment- size-" alt="" srcset="" data-srcset="https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_04_27524acf1c.webp 360w, https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_04_27524acf1c-300x180.webp 300w" sizes="auto, (max-width: 360px) 100vw, 360px" />											</div>
+					</div>
+
+		<div class="box-text text-center" >
+			<div class="box-text-inner">
+				
+
+	<div id="text-624074334" class="text">
+		
+
+<h4>MyGamer 250</h4>
+<h3>250Mbps</h3>
+<p>Rp 399.999/Bulan</p>
+<p><small><s><span style="color: #ed1c24;">Rp 749.550</s> <span style="color: #ed1c24;">&#8211; 47%</span></small></p>
+		
+<style>
+#text-624074334 {
+  font-size: 1rem;
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+	<div id="text-3780115127" class="text">
+		
+
+<p><small>Harga belum termasuk PPn 11%</small></p>
+		
+<style>
+#text-3780115127 {
+  text-align: center;
+}
+</style>
+	</div>
+	
+<a href="https://api.whatsapp.com/send?phone=6285798335128&amp;text=Halo%20admin.%20Saya%20mau%20berlangganan%20MyRepublic" class="button primary is-small lowercase"  style="border-radius:10px;">
+		<span>Langganan Sekarang</span>
+	</a>
+
+
+
+		</div>
+				
+<style>
+#col-339183489 > .col-inner {
+  border-radius: 10px;
+}
+</style>
+	</div>
+
+	
+
+
+<style>
+#row-941125979 > .col > .col-inner {
+  background-color: rgb(255,255,255);
+}
+</style>
+</div>
+<div class="row row-large row-full-width align-equal align-center"  id="row-1646038924">
+
+
+	<div id="col-1394955539" class="col round-corner medium-4 small-12 large-4"  >
+				<div class="col-inner text-center"  >
+			
+			
+
+	<div class="box has-hover round-corners  has-hover box-text-bottom" >
+
+		<div class="box-image" >
+						<div class="" >
+				<img decoding="async" width="360" height="216" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20360%20216%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_05_1_75c1eaa5f5.webp" class="lazy-load attachment- size-" alt="" srcset="" data-srcset="https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_05_1_75c1eaa5f5.webp 360w, https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_05_1_75c1eaa5f5-300x180.webp 300w" sizes="auto, (max-width: 360px) 100vw, 360px" />											</div>
+					</div>
+
+		<div class="box-text text-center" >
+			<div class="box-text-inner">
+				
+
+	<div id="text-286471753" class="text">
+		
+
+<h4>Prime 500</h4>
+<h3>500Mbps</h3>
+<p>Rp 499.999/Bulan</p>
+<p><small><s><span style="color: #ed1c24;">Rp 850.000</s> <span style="color: #ed1c24;">&#8211; 42%</span></small></p>
+		
+<style>
+#text-286471753 {
+  font-size: 1rem;
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+	<div id="text-460550816" class="text">
+		
+
+<p><small>Harga belum termasuk PPn 11%</small></p>
+		
+<style>
+#text-460550816 {
+  text-align: center;
+}
+</style>
+	</div>
+	
+<a href="https://api.whatsapp.com/send?phone=6285798335128&amp;text=Halo%20admin.%20Saya%20mau%20berlangganan%20MyRepublic" class="button primary is-small lowercase"  style="border-radius:10px;">
+		<span>Langganan Sekarang</span>
+	</a>
+
+
+
+		</div>
+				
+<style>
+#col-1394955539 > .col-inner {
+  border-radius: 10px;
+}
+</style>
+	</div>
+
+	
+
+
+<style>
+#row-1646038924 > .col > .col-inner {
+  background-color: rgb(255,255,255);
+}
+</style>
+</div>
+
+     </div>
+
+     <div class="loading-spin dark large centered"></div>
+
+	</div>
+
+
+
+</div>
+<div id="tab_combo-internet-+-tv" class="panel entry-content" role="tabpanel" aria-labelledby="tab-combo-internet-+-tv">
+
+<div class="slider-wrapper relative" id="slider-849633996" >
+    <div class="slider slider-nav-circle slider-nav-large slider-nav-dark slider-style-focus slider-show-nav"
+        data-flickity-options='{
+            "cellAlign": "left",
+            "imagesLoaded": true,
+            "lazyLoad": 1,
+            "freeScroll": true,
+            "wrapAround": true,
+            "autoPlay": 4000,
+            "pauseAutoPlayOnHover" : true,
+            "prevNextButtons": true,
+            "contain" : true,
+            "adaptiveHeight" : true,
+            "dragThreshold" : 10,
+            "percentPosition": true,
+            "pageDots": true,
+            "rightToLeft": false,
+            "draggable": true,
+            "selectedAttraction": 0.1,
+            "parallax" : 0,
+            "friction": 0.6        }'
+        >
+        
+
+<div class="row row-large align-equal align-center"  id="row-1971696466">
+
+
+	<div id="col-1477309232" class="col round-corner medium-4 small-12 large-4"  >
+				<div class="col-inner text-center"  >
+			
+			
+
+	<div class="box has-hover round-corners  has-hover box-text-bottom" >
+
+		<div class="box-image" >
+						<div class="" >
+				<img decoding="async" width="360" height="216" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20360%20216%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/THUMBNAIL_PRODUCT_VALUE_30_copy_2391d02613.webp" class="lazy-load attachment- size-" alt="" srcset="" data-srcset="https://myrepublic-bandung.net/wp-content/uploads/2024/09/THUMBNAIL_PRODUCT_VALUE_30_copy_2391d02613.webp 360w, https://myrepublic-bandung.net/wp-content/uploads/2024/09/THUMBNAIL_PRODUCT_VALUE_30_copy_2391d02613-300x180.webp 300w" sizes="auto, (max-width: 360px) 100vw, 360px" />											</div>
+					</div>
+
+		<div class="box-text text-center" >
+			<div class="box-text-inner">
+				
+
+	<div id="text-1066864564" class="text">
+		
+
+<h4>Value 30 Combo TV</h4>
+<h3>30Mbps</h3>
+<p>Rp 319.999/Bulan</p>
+<p><small><s><span style="color: #ed1c24;">Rp 394.010</s> <span style="color: #ed1c24;">&#8211; 19%</span></small></p>
+		
+<style>
+#text-1066864564 {
+  font-size: 1rem;
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+	<div id="text-1940013436" class="text">
+		
+
+<p><small>Harga belum termasuk PPn 11%</small></p>
+		
+<style>
+#text-1940013436 {
+  text-align: center;
+}
+</style>
+	</div>
+	
+<a href="https://api.whatsapp.com/send?phone=6285798335128&amp;text=Halo%20admin.%20Saya%20mau%20berlangganan%20MyRepublic" class="button primary is-small lowercase"  style="border-radius:10px;">
+		<span>Langganan Sekarang</span>
+	</a>
+
+
+
+		</div>
+				
+<style>
+#col-1477309232 > .col-inner {
+  border-radius: 10px;
+}
+</style>
+	</div>
+
+	
+
+
+<style>
+#row-1971696466 > .col > .col-inner {
+  background-color: rgb(244, 244, 244);
+}
+</style>
+</div>
+<div class="row row-large align-equal align-center"  id="row-289371536">
+
+
+	<div id="col-894717586" class="col round-corner medium-4 small-12 large-4"  >
+				<div class="col-inner text-center"  >
+			
+			
+
+	<div class="box has-hover round-corners  has-hover box-text-bottom" >
+
+		<div class="box-image" >
+						<div class="" >
+				<img decoding="async" width="360" height="216" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20360%20216%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/THUMBNAIL_PRODUCT_FAST_50_copy_a7b510680c.webp" class="lazy-load attachment- size-" alt="" srcset="" data-srcset="https://myrepublic-bandung.net/wp-content/uploads/2024/09/THUMBNAIL_PRODUCT_FAST_50_copy_a7b510680c.webp 360w, https://myrepublic-bandung.net/wp-content/uploads/2024/09/THUMBNAIL_PRODUCT_FAST_50_copy_a7b510680c-300x180.webp 300w" sizes="auto, (max-width: 360px) 100vw, 360px" />											</div>
+					</div>
+
+		<div class="box-text text-center" >
+			<div class="box-text-inner">
+				
+
+	<div id="text-338627889" class="text">
+		
+
+<h4>Fast 50 Combo TV</h4>
+<h3>50Mbps</h3>
+<p>Rp 334.999/Bulan</p>
+<p><small><s><span style="color: #ed1c24;">Rp 494.009</s> <span style="color: #ed1c24;">&#8211; 33%</span></small></p>
+		
+<style>
+#text-338627889 {
+  font-size: 1rem;
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+	<div id="text-2659945727" class="text">
+		
+
+<p><small>Harga belum termasuk PPn 11%</small></p>
+		
+<style>
+#text-2659945727 {
+  text-align: center;
+}
+</style>
+	</div>
+	
+<a href="https://api.whatsapp.com/send?phone=6285798335128&amp;text=Halo%20admin.%20Saya%20mau%20berlangganan%20MyRepublic" class="button primary is-small lowercase"  style="border-radius:10px;">
+		<span>Langganan Sekarang</span>
+	</a>
+
+
+
+		</div>
+				
+<style>
+#col-894717586 > .col-inner {
+  border-radius: 10px;
+}
+</style>
+	</div>
+
+	
+
+
+<style>
+#row-289371536 > .col > .col-inner {
+  background-color: rgb(244, 244, 244);
+}
+</style>
+</div>
+<div class="row row-large row-full-width align-equal align-center"  id="row-314018418">
+
+
+	<div id="col-1842493211" class="col round-corner medium-4 small-12 large-4"  >
+				<div class="col-inner text-center"  >
+			
+			
+
+	<div class="box has-hover round-corners  has-hover box-text-bottom" >
+
+		<div class="box-image" >
+						<div class="" >
+				<img decoding="async" width="360" height="216" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20360%20216%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/THUMBNAIL_PRODUCT_NOVA_100_copy_cdc299ba74.webp" class="lazy-load attachment- size-" alt="" srcset="" data-srcset="https://myrepublic-bandung.net/wp-content/uploads/2024/09/THUMBNAIL_PRODUCT_NOVA_100_copy_cdc299ba74.webp 360w, https://myrepublic-bandung.net/wp-content/uploads/2024/09/THUMBNAIL_PRODUCT_NOVA_100_copy_cdc299ba74-300x180.webp 300w" sizes="auto, (max-width: 360px) 100vw, 360px" />											</div>
+					</div>
+
+		<div class="box-text text-center" >
+			<div class="box-text-inner">
+				
+
+	<div id="text-1279889461" class="text">
+		
+
+<h4>Nova 100 Combo TV</h4>
+<h3>100Mbps</h3>
+<p>Rp 384.999/Bulan</p>
+<p><small><s><span style="color: #ed1c24;">Rp 724.640</s> <span style="color: #ed1c24;">&#8211; 47%</span></small></p>
+		
+<style>
+#text-1279889461 {
+  font-size: 1rem;
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+	<div id="text-3468741437" class="text">
+		
+
+<p><small>Harga belum termasuk PPn 11%</small></p>
+		
+<style>
+#text-3468741437 {
+  text-align: center;
+}
+</style>
+	</div>
+	
+<a href="https://api.whatsapp.com/send?phone=6285798335128&amp;text=Halo%20admin.%20Saya%20mau%20berlangganan%20MyRepublic" class="button primary is-small lowercase"  style="border-radius:10px;">
+		<span>Langganan Sekarang</span>
+	</a>
+
+
+
+		</div>
+				
+<style>
+#col-1842493211 > .col-inner {
+  border-radius: 10px;
+}
+</style>
+	</div>
+
+	
+
+
+<style>
+#row-314018418 > .col > .col-inner {
+  background-color: rgb(255,255,255);
+}
+</style>
+</div>
+<div class="row row-large row-full-width align-equal align-center"  id="row-451830673">
+
+
+	<div id="col-1383598120" class="col round-corner medium-4 small-12 large-4"  >
+				<div class="col-inner text-center"  >
+			
+			
+
+	<div class="box has-hover round-corners  has-hover box-text-bottom" >
+
+		<div class="box-image" >
+						<div class="" >
+				<img decoding="async" width="360" height="216" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20360%20216%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/THUMBNAIL_PRODUCT_MYGAMER_250_copy_0289122657.webp" class="lazy-load attachment- size-" alt="" srcset="" data-srcset="https://myrepublic-bandung.net/wp-content/uploads/2024/09/THUMBNAIL_PRODUCT_MYGAMER_250_copy_0289122657.webp 360w, https://myrepublic-bandung.net/wp-content/uploads/2024/09/THUMBNAIL_PRODUCT_MYGAMER_250_copy_0289122657-300x180.webp 300w" sizes="auto, (max-width: 360px) 100vw, 360px" />											</div>
+					</div>
+
+		<div class="box-text text-center" >
+			<div class="box-text-inner">
+				
+
+	<div id="text-316732349" class="text">
+		
+
+<h4>MyGamer 250 Combo TV</h4>
+<h3>250Mbps</h3>
+<p>Rp 484.999/Bulan</p>
+<p><small><s><span style="color: #ed1c24;">Rp 834.550</s> <span style="color: #ed1c24;">&#8211; 42%</span></small></p>
+		
+<style>
+#text-316732349 {
+  font-size: 1rem;
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+	<div id="text-399934949" class="text">
+		
+
+<p><small>Harga belum termasuk PPn 11%</small></p>
+		
+<style>
+#text-399934949 {
+  text-align: center;
+}
+</style>
+	</div>
+	
+<a href="https://api.whatsapp.com/send?phone=6285798335128&amp;text=Halo%20admin.%20Saya%20mau%20berlangganan%20MyRepublic" class="button primary is-small lowercase"  style="border-radius:10px;">
+		<span>Langganan Sekarang</span>
+	</a>
+
+
+
+		</div>
+				
+<style>
+#col-1383598120 > .col-inner {
+  border-radius: 10px;
+}
+</style>
+	</div>
+
+	
+
+
+<style>
+#row-451830673 > .col > .col-inner {
+  background-color: rgb(255,255,255);
+}
+</style>
+</div>
+<div class="row row-large row-full-width align-equal align-center"  id="row-157426190">
+
+
+	<div id="col-2087095923" class="col round-corner medium-4 small-12 large-4"  >
+				<div class="col-inner text-center"  >
+			
+			
+
+	<div class="box has-hover round-corners  has-hover box-text-bottom" >
+
+		<div class="box-image" >
+						<div class="" >
+				<img decoding="async" width="360" height="216" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20360%20216%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_05_1_75c1eaa5f5.webp" class="lazy-load attachment- size-" alt="" srcset="" data-srcset="https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_05_1_75c1eaa5f5.webp 360w, https://myrepublic-bandung.net/wp-content/uploads/2024/09/Design_Thumbnail_Produk_05_1_75c1eaa5f5-300x180.webp 300w" sizes="auto, (max-width: 360px) 100vw, 360px" />											</div>
+					</div>
+
+		<div class="box-text text-center" >
+			<div class="box-text-inner">
+				
+
+	<div id="text-2202381228" class="text">
+		
+
+<h4>Prime 500 Combo TV</h4>
+<h3>500Mbps</h3>
+<p>Rp 584.999/Bulan</p>
+<p><small><s><span style="color: #ed1c24;">Rp 935.000</s> <span style="color: #ed1c24;">&#8211; 38%</span></small></p>
+		
+<style>
+#text-2202381228 {
+  font-size: 1rem;
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+	<div id="text-32352077" class="text">
+		
+
+<p><small>Harga belum termasuk PPn 11%</small></p>
+		
+<style>
+#text-32352077 {
+  text-align: center;
+}
+</style>
+	</div>
+	
+<a href="https://api.whatsapp.com/send?phone=6285798335128&amp;text=Halo%20admin.%20Saya%20mau%20berlangganan%20MyRepublic" class="button primary is-small lowercase"  style="border-radius:10px;">
+		<span>Langganan Sekarang</span>
+	</a>
+
+
+
+		</div>
+				
+<style>
+#col-2087095923 > .col-inner {
+  border-radius: 10px;
+}
+</style>
+	</div>
+
+	
+
+
+<style>
+#row-157426190 > .col > .col-inner {
+  background-color: rgb(255,255,255);
+}
+</style>
+</div>
+
+     </div>
+
+     <div class="loading-spin dark large centered"></div>
+
+	</div>
+
+
+<div class="row row-collapse align-middle align-center"  id="row-2064217732">
+
+
+	<div id="col-1866912210" class="col medium-6 small-6 large-6"  >
+				<div class="col-inner text-center"  >
+			
+			
+
+	<div class="box has-hover   has-hover box-text-bottom" >
+
+		<div class="box-image" style="width:67%;">
+						<div class="" >
+				<img decoding="async" width="128" height="25" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20128%2025%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/ott_vidio_platinum_ca7edd2947.webp" class="lazy-load attachment-original size-original" alt="" />											</div>
+					</div>
+
+		<div class="box-text text-center" style="padding:0px 10px 0px 0px;">
+			<div class="box-text-inner">
+				
+
+	<div id="text-4062641908" class="text">
+		
+
+<p>Free 12 Bulan</p>
+		
+<style>
+#text-4062641908 {
+  text-align: center;
+  color: rgb(203, 21, 21);
+}
+#text-4062641908 > * {
+  color: rgb(203, 21, 21);
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+
+		</div>
+				
+<style>
+#col-1866912210 > .col-inner {
+  margin: 0px 0px 0px 0px;
+}
+@media (min-width:550px) {
+  #col-1866912210 > .col-inner {
+    margin: 0px 0px 0px 100px;
+  }
+}
+</style>
+	</div>
+
+	
+
+	<div id="col-1228091452" class="col medium-6 small-6 large-6"  >
+				<div class="col-inner text-center"  >
+			
+			
+
+	<div class="box has-hover   has-hover box-text-bottom" >
+
+		<div class="box-image" style="width:55%;">
+						<div class="" >
+				<img decoding="async" width="120" height="38" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20120%2038%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/genflix.cd62815c.png" class="lazy-load attachment-original size-original" alt="" />											</div>
+					</div>
+
+		<div class="box-text text-center" style="padding:0px 10px 0px 0px;">
+			<div class="box-text-inner">
+				
+
+	<div id="text-4287499889" class="text">
+		
+
+<p>Free 12 Bulan</p>
+		
+<style>
+#text-4287499889 {
+  text-align: center;
+  color: rgb(203, 21, 21);
+}
+#text-4287499889 > * {
+  color: rgb(203, 21, 21);
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+
+		</div>
+				
+<style>
+#col-1228091452 > .col-inner {
+  margin: 0px 0px 0px 0px;
+}
+@media (min-width:550px) {
+  #col-1228091452 > .col-inner {
+    margin: 0px 0px 0px -100px;
+  }
+}
+</style>
+	</div>
+
+	
+
+</div>
+
+</div></div></div>
+
+		</div>
+					</div>
+
+	
+
+</div>
+
+		</div>
+
+		
+<style>
+#section_1295042886 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+</style>
+	</section>
+	
+
+	<section class="section dark" id="section_1040356735">
+		<div class="section-bg fill" >
+			<img decoding="async" width="574" height="254" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20574%20254%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/pattern-shape-right-blue.webp" class="lazy-load bg attachment-original size-original" alt="" />						<div class="section-bg-overlay absolute fill"></div>
+			
+
+		</div>
+
+		
+
+		<div class="section-content relative">
+			
+
+<span class="scroll-to" data-label="Scroll to: #addon" data-bullet="false" data-link="#addon" data-title="addon" ><a name="addon"></a></span>
+
+	<div id="gap-1753412140" class="gap-element clearfix" style="display:block; height:auto;">
+		
+<style>
+#gap-1753412140 {
+  padding-top: 50px;
+}
+</style>
+	</div>
+	
+
+<div class="row"  id="row-477280852">
+
+
+	<div id="col-929501053" class="col medium-8 small-12 large-8"  >
+				<div class="col-inner"  >
+			
+			
+
+<h3>Akses Hiburan Terlengkap</h3>
+<h2><span style="font-size: 140%; color: #00ffff;">Hiburan Terlengkap Untuk Keluarga</span></h2>
+<p>Nikmati channel dan platform video streaming terlengkap</p>
+<p>Mulai dari</p>
+<h3><sup>Rp</sup> <span style="font-size: 170%; color: #ff9900;">99 ribuan</span> / bulan</h3>
+</p>
+
+<a href="https://api.whatsapp.com/send?phone=6285798335128&amp;text=Halo%20admin.%20Saya%20mau%20berlangganan%20MyRepublic" class="button white lowercase"  style="border-radius:10px;">
+		<span>Tanya Sales</span>
+	<i class="icon-angle-right" aria-hidden="true" ></i></a>
+
+
+
+		</div>
+					</div>
+
+	
+
+	<div id="col-312143483" class="col medium-4 small-12 large-4"  >
+				<div class="col-inner text-center" style="background-color:rgba(0, 0, 0, 0);" >
+			
+			
+
+
+  <div class="banner has-hover" id="banner-664090203">
+          <div class="banner-inner fill">
+        <div class="banner-bg fill" >
+            <img decoding="async" width="480" height="480" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20480%20480%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/stb.webp" class="lazy-load bg attachment-original size-original" alt="" />                                    
+	<div class="is-border"
+		style="border-color:rgba(255, 255, 255, 0);border-width:0px 0px 0px 0px;margin:200px 0px 0px 0px;">
+	</div>
+                    </div>
+		
+        <div class="banner-layers container">
+            <div class="fill banner-link"></div>            
+
+   <div id="text-box-641504623" class="text-box banner-layer x50 md-x50 lg-x50 y50 md-y50 lg-y50 res-text">
+                                <div class="text-box-content text dark">
+              
+              <div class="text-inner text-center">
+                  
+
+
+              </div>
+           </div>
+                            
+<style>
+#text-box-641504623 {
+  width: 60%;
+}
+#text-box-641504623 .text-box-content {
+  font-size: 100%;
+}
+</style>
+    </div>
+ 
+
+        </div>
+      </div>
+
+              <div class="height-fix is-invisible"><img decoding="async" width="480" height="480" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20480%20480%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/stb.webp" class="lazy-load attachment-original size-original" alt="" srcset="" data-srcset="https://myrepublic-bandung.net/wp-content/uploads/2024/09/stb.webp 480w, https://myrepublic-bandung.net/wp-content/uploads/2024/09/stb-300x300.webp 300w, https://myrepublic-bandung.net/wp-content/uploads/2024/09/stb-150x150.webp 150w" sizes="auto, (max-width: 480px) 100vw, 480px" /></div>
+            
+<style>
+#banner-664090203 {
+  background-color: rgba(0, 0, 0, 0);
+}
+#banner-664090203 .banner-bg img {
+  object-position: 50% 46%;
+}
+</style>
+  </div>
+
+
+
+		</div>
+				
+<style>
+#col-312143483 > .col-inner {
+  margin: 100px 0px -100px 0px;
+}
+</style>
+	</div>
+
+	
+
+
+<style>
+#row-477280852 > .col > .col-inner {
+  background-color: rgba(0, 0, 0, 0);
+}
+</style>
+</div>
+
+		</div>
+
+		
+<style>
+#section_1040356735 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  min-height: 400px;
+  background-color: rgba(0, 0, 0, 0);
+}
+#section_1040356735 .section-bg-overlay {
+  background-color: rgba(0, 52, 255, 0.651);
+}
+#section_1040356735 .section-bg img {
+  object-position: 100% 0%;
+}
+</style>
+	</section>
+	
+<div class="row align-equal"  id="row-953727379">
+
+
+	<div id="col-1642373584" class="col medium-8 small-12 large-8"  >
+				<div class="col-inner"  >
+			
+			
+
+	<div id="gap-363280377" class="gap-element clearfix" style="display:block; height:auto;">
+		
+<style>
+#gap-363280377 {
+  padding-top: 40px;
+}
+@media (min-width:550px) {
+  #gap-363280377 {
+    padding-top: 30px;
+  }
+}
+</style>
+	</div>
+	
+
+<p><span style="font-size: 130%;">Akses ke lebih dari 70+ Channel TV Lokal maupun Internasional dan Live Event lainnya</span></p>
+	<div id="stack-2774496021" class="stack stack-row justify-start items-center">
+		
+
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1003365256">
+								<div class="img-inner dark" >
+			<img decoding="async" width="100" height="32" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%2032%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/vidio.9618f5e5.png" class="lazy-load attachment-large size-large" alt="" />						
+					</div>
+								
+<style>
+#image_1003365256 {
+  width: 16%;
+}
+</style>
+	</div>
+	
+
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_464745211">
+								<div class="img-inner dark" >
+			<img decoding="async" width="120" height="36" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20120%2036%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/wetv.d024dcd5.png" class="lazy-load attachment-large size-large" alt="" />						
+					</div>
+								
+<style>
+#image_464745211 {
+  width: 16%;
+}
+</style>
+	</div>
+	
+
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_2056379517">
+								<div class="img-inner dark" >
+			<img decoding="async" width="120" height="38" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20120%2038%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/genflix.cd62815c.png" class="lazy-load attachment-large size-large" alt="" />						
+					</div>
+								
+<style>
+#image_2056379517 {
+  width: 16%;
+}
+</style>
+	</div>
+	
+
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1536680365">
+								<div class="img-inner dark" >
+			<img decoding="async" width="568" height="105" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20568%20105%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://myrepublic-bandung.net/wp-content/uploads/2024/09/visionplus.0c66e10f.png" class="lazy-load attachment-large size-large" alt="" srcset="" data-srcset="https://myrepublic-bandung.net/wp-content/uploads/2024/09/visionplus.0c66e10f.png 568w, https://myrepublic-bandung.net/wp-content/uploads/2024/09/visionplus.0c66e10f-300x55.png 300w" sizes="auto, (max-width: 568px) 100vw, 568px" />						
+					</div>
+								
+<style>
+#image_1536680365 {
+  width: 16%;
+}
+</style>
+	</div>
+	
+
+
+		
+<style>
+#stack-2774496021 > * {
+  --stack-gap: 1rem;
+}
+</style>
+	</div>
+	
+
+		</div>
+					</div>
+
+	
+
+</div>
+
+
+			
+		
+</div>
+
+
+
+</main>
+
+<footer id="footer" class="footer-wrapper">
+
+		<div id="gap-1449125670" class="gap-element clearfix" style="display:block; height:auto;">
+		
+<style>
+#gap-1449125670 {
+  padding-top: 60px;
+}
+</style>
+	</div>
+	
+
+<div class="row row-collapse align-center"  id="row-1474305123">
+
+
+	<div id="col-229175627" class="col medium-12 small-12 large-12"  >
+				<div class="col-inner text-center dark"  >
+			
+			
+
+
+	<section class="section" id="section_2059533051">
+		<div class="section-bg fill" >
+			<img width="1024" height="458" src="wp-content/uploads/2024/09/background.jpg" class="bg attachment-original size-original" alt="" decoding="async" loading="lazy" />						
+			
+
+		</div>
+
+		
+
+		<div class="section-content relative">
+			
+
+<div class="row align-middle align-center"  id="row-1685092217">
+
+
+	<div id="col-623322002" class="col medium-12 small-12 large-8"  >
+				<div class="col-inner text-center"  >
+			
+			
+
+<span class="scroll-to" data-label="Scroll to: #kontak" data-bullet="false" data-link="#kontak" data-title="kontak" ><a name="kontak"></a></span>
+
+	<div id="gap-1034809215" class="gap-element clearfix" style="display:block; height:auto;">
+		
+<style>
+#gap-1034809215 {
+  padding-top: 45px;
+}
+</style>
+	</div>
+	
+
+<h2><span style="color: #000000;">Untuk Segala Kebutuhan Online & Hiburan, Myrepublic Tersedia Untuk Kamu</span></h2>
+
+		</div>
+				
+<style>
+#col-623322002 > .col-inner {
+  padding: 0px 0% 0px 0%;
+}
+@media (min-width:550px) {
+  #col-623322002 > .col-inner {
+    padding: 0px 15% 0px 15%;
+  }
+}
+</style>
+	</div>
+
+	
+
+	<div id="col-216078160" class="col medium-12 small-12 large-4"  >
+				<div class="col-inner text-center"  >
+			
+			
+
+	<div id="gap-2105810860" class="gap-element clearfix hide-for-medium" style="display:block; height:auto;">
+		
+<style>
+#gap-2105810860 {
+  padding-top: 45px;
+}
+</style>
+	</div>
+	
+
+<a href="https://api.whatsapp.com/send?phone=6285798335128&amp;text=Halo%20admin.%20Saya%20mau%20berlangganan%20MyRepublic" class="button primary"  style="border-radius:54px;padding:5px 30px 5px 30px;">
+	<i class="icon-phone" aria-hidden="true" ></i>	<span>0857 9833 5128</span>
+	</a>
+
+
+
+		</div>
+					</div>
+
+	
+
+</div>
+
+		</div>
+
+		
+<style>
+#section_2059533051 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+#section_2059533051 .section-bg img {
+  object-position: 49% 45%;
+}
+</style>
+	</section>
+	
+
+		</div>
+					</div>
+
+	
+
+</div>
+	<div id="gap-897071935" class="gap-element clearfix" style="display:block; height:auto;">
+		
+<style>
+#gap-897071935 {
+  padding-top: 7px;
+}
+@media (min-width:550px) {
+  #gap-897071935 {
+    padding-top: 30px;
+  }
+}
+</style>
+	</div>
+	
+
+
+	<section class="section" id="section_653011757">
+		<div class="section-bg fill" >
+									
+			
+
+		</div>
+
+		
+
+		<div class="section-content relative">
+			
+
+<div class="row row-collapse align-middle"  id="row-87870554">
+
+
+	<div id="col-1777448806" class="col medium-5 small-12 large-5"  >
+				<div class="col-inner text-left"  >
+			
+			
+
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_574461073">
+								<div class="img-inner dark" >
+			<img width="520" height="130" src="wp-content/uploads/2024/09/myrepublic-logo.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" srcset="https://myrepublic-bandung.net/wp-content/uploads/2024/09/myrepublic-logo.png 520w, https://myrepublic-bandung.net/wp-content/uploads/2024/09/myrepublic-logo-300x75.png 300w" sizes="auto, (max-width: 520px) 100vw, 520px" />						
+					</div>
+								
+<style>
+#image_574461073 {
+  width: 29%;
+}
+@media (min-width:550px) {
+  #image_574461073 {
+    width: 33%;
+  }
+}
+</style>
+	</div>
+	
+
+	<div id="text-3666777656" class="text">
+		
+
+<h3>Myrepublic Bandung</h3>
+<p><span style="color: #000000;"></span></p>
+<p>Jl. Pungkur No.217c, Balonggede, Kec. Lengkong, Kota Bandung, Jawa Barat 40252</p>
+		
+<style>
+#text-3666777656 {
+  text-align: left;
+}
+</style>
+	</div>
+	
+	<div id="text-2610905257" class="text">
+		
+
+<h4>Kami ada di Sosmed:</h4>
+		
+<style>
+#text-2610905257 {
+  text-align: left;
+}
+</style>
+	</div>
+	
+	<div id="stack-1042935337" class="stack stack-row justify-start items-start">
+		
+
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1821758424">
+		<a class="" href="#" target="_blank" rel="noopener" >						<div class="img-inner dark" >
+			<img src="wp-content/uploads/2024/09/tiktok-line.svg" class="attachment-original size-original" alt="" decoding="async" loading="lazy" />						
+					</div>
+						</a>		
+<style>
+#image_1821758424 {
+  width: 10%;
+}
+@media (min-width:550px) {
+  #image_1821758424 {
+    width: 10%;
+  }
+}
+</style>
+	</div>
+	
+
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_909557019">
+		<a class="" href="#" target="_blank" rel="noopener" >						<div class="img-inner dark" >
+			<img src="wp-content/uploads/2024/09/facebook-circle-fill.svg" class="attachment-original size-original" alt="" decoding="async" loading="lazy" />						
+					</div>
+						</a>		
+<style>
+#image_909557019 {
+  width: 10%;
+}
+@media (min-width:550px) {
+  #image_909557019 {
+    width: 10%;
+  }
+}
+</style>
+	</div>
+	
+
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_993389544">
+		<a class="" href="https://wa.me/62" >						<div class="img-inner dark" >
+			<img src="wp-content/uploads/2024/09/instagram-fill.svg" class="attachment-original size-original" alt="" decoding="async" loading="lazy" />						
+					</div>
+						</a>		
+<style>
+#image_993389544 {
+  width: 10%;
+}
+@media (min-width:550px) {
+  #image_993389544 {
+    width: 10%;
+  }
+}
+</style>
+	</div>
+	
+
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1750795942">
+		<a class="" href="#" target="_blank" rel="noopener" >						<div class="img-inner dark" >
+			<img src="wp-content/uploads/2024/09/whatsapp-fill.svg" class="attachment-original size-original" alt="" decoding="async" loading="lazy" />						
+					</div>
+						</a>		
+<style>
+#image_1750795942 {
+  width: 10%;
+}
+@media (min-width:550px) {
+  #image_1750795942 {
+    width: 10%;
+  }
+}
+</style>
+	</div>
+	
+
+
+		
+<style>
+#stack-1042935337 > * {
+  --stack-gap: 1rem;
+}
+@media (min-width:550px) {
+  #stack-1042935337 > * {
+    --stack-gap: 1rem;
+  }
+}
+</style>
+	</div>
+	
+
+		</div>
+				
+<style>
+#col-1777448806 > .col-inner {
+  padding: 0px 0px 0px 11px;
+}
+@media (min-width:550px) {
+  #col-1777448806 > .col-inner {
+    padding: 0px 0px 0px 6px;
+  }
+}
+</style>
+	</div>
+
+	
+
+	<div id="col-10162404" class="col show-for-small medium-4 small-12 large-4"  >
+				<div class="col-inner"  >
+			
+	<div class="is-border is-dashed"
+		style="border-width:0px 0px 2px 0px;margin:0px 0px 2px 0px;">
+	</div>
+			
+
+	<div id="gap-506585954" class="gap-element clearfix" style="display:block; height:auto;">
+		
+<style>
+#gap-506585954 {
+  padding-top: 30px;
+}
+</style>
+	</div>
+	
+
+
+		</div>
+					</div>
+
+	
+
+	<div id="col-1495709759" class="col hide-for-small medium-1 small-1 large-1"  >
+				<div class="col-inner"  >
+			
+			
+
+	<div id="gap-809610995" class="gap-element clearfix" style="display:block; height:auto;">
+		
+<style>
+#gap-809610995 {
+  padding-top: 30px;
+}
+</style>
+	</div>
+	
+
+<div class="text-center"><div class="is-divider divider clearfix" style="max-width:2px;height:230px;background-color:rgb(0, 0, 0);"></div></div>
+
+
+		</div>
+					</div>
+
+	
+
+	<div id="col-593863301" class="col medium-6 small-12 large-6"  >
+				<div class="col-inner text-center"  >
+			
+			
+
+	<div id="gap-1893060067" class="gap-element clearfix" style="display:block; height:auto;">
+		
+<style>
+#gap-1893060067 {
+  padding-top: 30px;
+}
+</style>
+	</div>
+	
+
+<div class="row"  id="row-1849854322">
+
+
+	<div id="col-1185068355" class="col medium-6 small-6 large-6"  >
+				<div class="col-inner text-left"  >
+			
+			
+
+	<div id="text-455290221" class="text">
+		
+
+<h3>Paket Internet</h3>
+		
+<style>
+#text-455290221 {
+  text-align: left;
+}
+@media (min-width:550px) {
+  #text-455290221 {
+    text-align: left;
+  }
+}
+</style>
+	</div>
+	
+	<div class="ux-menu stack stack-col justify-start ux-menu--divider-solid">
+		
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="#" >
+			<i class="ux-menu-link__icon text-center icon-angle-right" ></i>			<span class="ux-menu-link__text">
+				Value 30Mbps			</span>
+		</a>
+	</div>
+	
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="#" >
+			<i class="ux-menu-link__icon text-center icon-angle-right" ></i>			<span class="ux-menu-link__text">
+				Fast 50Mbps			</span>
+		</a>
+	</div>
+	
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="#" >
+			<i class="ux-menu-link__icon text-center icon-angle-right" ></i>			<span class="ux-menu-link__text">
+				Nova 100Mbps			</span>
+		</a>
+	</div>
+	
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="#" >
+			<i class="ux-menu-link__icon text-center icon-angle-right" ></i>			<span class="ux-menu-link__text">
+				MyGamer 250Mbps			</span>
+		</a>
+	</div>
+	
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="#" >
+			<i class="ux-menu-link__icon text-center icon-angle-right" ></i>			<span class="ux-menu-link__text">
+				Prime 500Mbps			</span>
+		</a>
+	</div>
+	
+
+
+	</div>
+	
+
+		</div>
+					</div>
+
+	
+
+	<div id="col-491814951" class="col medium-6 small-6 large-6"  >
+				<div class="col-inner text-left"  >
+			
+			
+
+	<div id="text-3956127742" class="text">
+		
+
+<h3>Quick Link</h3>
+		
+<style>
+#text-3956127742 {
+  text-align: left;
+}
+@media (min-width:550px) {
+  #text-3956127742 {
+    text-align: left;
+  }
+}
+</style>
+	</div>
+	
+	<div class="ux-menu stack stack-col justify-start ux-menu--divider-solid">
+		
+
+	<div class="ux-menu-link flex menu-item label-sale">
+		<a class="ux-menu-link__link flex" href="#" >
+			<i class="ux-menu-link__icon text-center icon-angle-right" ></i>			<span class="ux-menu-link__text">
+				Promo			</span>
+		</a>
+	</div>
+	
+
+	<div class="ux-menu-link flex menu-item label-new">
+		<a class="ux-menu-link__link flex" href="index.html#addon" >
+			<i class="ux-menu-link__icon text-center icon-angle-right" ></i>			<span class="ux-menu-link__text">
+				Addon			</span>
+		</a>
+	</div>
+	
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="#" >
+			<i class="ux-menu-link__icon text-center icon-angle-right" ></i>			<span class="ux-menu-link__text">
+				Paket Internet Only			</span>
+		</a>
+	</div>
+	
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="#" >
+			<i class="ux-menu-link__icon text-center icon-angle-right" ></i>			<span class="ux-menu-link__text">
+				Paket Combo TV			</span>
+		</a>
+	</div>
+	
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="index.html#kontak" >
+			<i class="ux-menu-link__icon text-center icon-angle-right" ></i>			<span class="ux-menu-link__text">
+				Kontak Kami			</span>
+		</a>
+	</div>
+	
+
+
+	</div>
+	
+
+		</div>
+					</div>
+
+	
+
+</div>
+
+		</div>
+				
+<style>
+#col-593863301 > .col-inner {
+  margin: 0px 0px 0px 18px;
+}
+</style>
+	</div>
+
+	
+
+</div>
+
+		</div>
+
+		
+<style>
+#section_653011757 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+</style>
+	</section>
+	
+<div class="absolute-footer dark medium-text-center small-text-center">
+  <div class="container clearfix">
+
+    
+    <div class="footer-primary pull-left">
+            <div class="copyright-footer">
+              </div>
+          </div>
+  </div>
+</div>
+	<!-- #page -->
+<div id="main-menu" class="mobile-sidebar no-scrollbar mfp-hide mobile-sidebar-slide mobile-sidebar-levels-1" data-levels="1">
+
+	
+	<div class="sidebar-menu no-scrollbar ">
+
+		
+					<ul class="nav nav-sidebar nav-vertical nav-uppercase nav-slide" data-tab="1">
+				<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-89"><a href="index.html#paket" aria-current="page">Paket Internet</a></li>
+<li class="label-sale menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-90"><a href="index.html#promo" aria-current="page">Promo</a></li>
+<li class="label-new menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-91"><a href="index.html#addon" aria-current="page">Addon</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-92"><a href="index.html#kontak" aria-current="page">Kontak Sales</a></li>
+<li class="html header-button-1">
+	<div class="header-button">
+		<a href="https://api.whatsapp.com/send?phone=6285798335128&amp;text=Haloadmin.SayamauberlanggananMyRepublic" class="button primary is-small box-shadow-1 lowercase"  style="border-radius:30px;">
+		<span>Langganan</span>
+	</a>
+	</div>
+</li>
+			</ul>
+		
+		
+	</div>
+
+	
+</div>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/flatsome-child\/*","\/wp-content\/themes\/flatsome\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<!-- Click to Chat - https://holithemes.com/plugins/click-to-chat/  v4.25 -->  
+            <div class="ht-ctc ht-ctc-chat ctc-analytics ctc_wp_desktop style-7  " id="ht-ctc-chat"  
+                style="display: none;  position: fixed; bottom: 75px; right: 25px;"   >
+                                <div class="ht_ctc_style ht_ctc_chat_style">
+                <style id="ht-ctc-s7">
+.ht-ctc .ctc_s_7:hover .ctc_s_7_icon_padding, .ht-ctc .ctc_s_7:hover .ctc_cta_stick{background-color:#25d366 !important;}.ht-ctc .ctc_s_7:hover svg g path{fill:#f4f4f4 !important;}</style>
+
+<div title = '' class="ctc_s_7 ctc-analytics ctc_nb" style="display:flex;justify-content:center;align-items:center; " data-nb_top="-7.8px" data-nb_right="-7.8px">
+    <p class="ctc_s_7_cta ctc_cta ctc_cta_stick ctc-analytics ht-ctc-cta " style="padding: 0px 16px;  color: #ffffff; background-color: #25d366; border-radius:10px; margin:0 10px;  display: none; "></p>
+    <div class="ctc_s_7_icon_padding ctc-analytics " style="font-size: 30px; color: #ffffff; padding: 12px; background-color: #25D366; border-radius: 50%;">
+        <svg style="pointer-events:none; display:block; height:30px; width:30px;" height="30px" version="1.1" viewBox="0 0 509 512" width="30px">
+        <g fill="none" fill-rule="evenodd" id="Page-1" stroke="none" stroke-width="1">
+            <path style="fill: #ffffff;" d="M259.253137,0.00180389396 C121.502859,0.00180389396 9.83730687,111.662896 9.83730687,249.413175 C9.83730687,296.530232 22.9142299,340.597122 45.6254897,378.191325 L0.613226597,512.001804 L138.700183,467.787757 C174.430395,487.549184 215.522926,498.811168 259.253137,498.811168 C396.994498,498.811168 508.660049,387.154535 508.660049,249.415405 C508.662279,111.662896 396.996727,0.00180389396 259.253137,0.00180389396 L259.253137,0.00180389396 Z M259.253137,459.089875 C216.65782,459.089875 176.998957,446.313956 143.886359,424.41206 L63.3044195,450.21808 L89.4939401,372.345171 C64.3924908,337.776609 49.5608297,295.299463 49.5608297,249.406486 C49.5608297,133.783298 143.627719,39.7186378 259.253137,39.7186378 C374.871867,39.7186378 468.940986,133.783298 468.940986,249.406486 C468.940986,365.025215 374.874096,459.089875 259.253137,459.089875 Z M200.755924,146.247066 C196.715791,136.510165 193.62103,136.180176 187.380228,135.883632 C185.239759,135.781068 182.918689,135.682963 180.379113,135.682963 C172.338979,135.682963 164.002301,138.050856 158.97889,143.19021 C152.865178,149.44439 137.578667,164.09322 137.578667,194.171258 C137.578667,224.253755 159.487251,253.321759 162.539648,257.402027 C165.600963,261.477835 205.268745,324.111057 266.985579,349.682963 C315.157262,369.636141 329.460495,367.859106 340.450462,365.455539 C356.441543,361.9639 376.521811,350.186865 381.616571,335.917077 C386.711331,321.63837 386.711331,309.399797 385.184018,306.857991 C383.654475,304.305037 379.578667,302.782183 373.464955,299.716408 C367.351242,296.659552 337.288812,281.870254 331.68569,279.83458 C326.080339,277.796676 320.898622,278.418749 316.5887,284.378615 C310.639982,292.612729 304.918689,301.074268 300.180674,306.09099 C296.46161,310.02856 290.477218,310.577055 285.331175,308.389764 C278.564174,305.506821 259.516237,298.869139 236.160607,278.048627 C217.988923,261.847958 205.716906,241.83458 202.149458,235.711949 C198.582011,229.598236 201.835077,225.948292 204.584241,222.621648 C207.719135,218.824546 210.610997,216.097679 213.667853,212.532462 C216.724709,208.960555 218.432625,207.05866 220.470529,202.973933 C222.508433,198.898125 221.137195,194.690767 219.607652,191.629452 C218.07588,188.568136 205.835077,158.494558 200.755924,146.247066 Z" 
+            fill="#ffffff" id="htwaicon-chat"/>
+        </g>
+        </svg>    </div>
+</div>                </div>
+            </div>
+                        <span class="ht_ctc_chat_data" 
+                data-settings="{&quot;number&quot;:&quot;6285798335128&quot;,&quot;pre_filled&quot;:&quot;Halo, saya mau langganan MyRepublic...&quot;,&quot;dis_m&quot;:&quot;show&quot;,&quot;dis_d&quot;:&quot;show&quot;,&quot;css&quot;:&quot;display: none; cursor: pointer; z-index: 99999999;&quot;,&quot;pos_d&quot;:&quot;position: fixed; bottom: 75px; right: 25px;&quot;,&quot;pos_m&quot;:&quot;position: fixed; bottom: 75px; right: 25px;&quot;,&quot;schedule&quot;:&quot;no&quot;,&quot;se&quot;:150,&quot;ani&quot;:&quot;no-animation&quot;,&quot;url_target_d&quot;:&quot;_blank&quot;,&quot;ga&quot;:&quot;yes&quot;,&quot;fb&quot;:&quot;yes&quot;,&quot;webhook_format&quot;:&quot;json&quot;,&quot;g_init&quot;:&quot;default&quot;,&quot;g_an_event_name&quot;:&quot;click to chat&quot;,&quot;pixel_event_name&quot;:&quot;Click to Chat by HoliThemes&quot;}" 
+            ></span>
+            <style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--primary: #7015cb;--wp--preset--color--secondary: #8224e3;--wp--preset--color--success: #7a9c59;--wp--preset--color--alert: #b20000;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){margin-left: auto !important;margin-right: auto !important;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: none;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-color{color: var(--wp--preset--color--primary) !important;}.has-secondary-color{color: var(--wp--preset--color--secondary) !important;}.has-success-color{color: var(--wp--preset--color--success) !important;}.has-alert-color{color: var(--wp--preset--color--alert) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-background-color{background-color: var(--wp--preset--color--primary) !important;}.has-secondary-background-color{background-color: var(--wp--preset--color--secondary) !important;}.has-success-background-color{background-color: var(--wp--preset--color--success) !important;}.has-alert-background-color{background-color: var(--wp--preset--color--alert) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-border-color{border-color: var(--wp--preset--color--primary) !important;}.has-secondary-border-color{border-color: var(--wp--preset--color--secondary) !important;}.has-success-border-color{border-color: var(--wp--preset--color--success) !important;}.has-alert-border-color{border-color: var(--wp--preset--color--alert) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<script type="text/javascript" id="ht_ctc_app_js-js-extra">
+/* <![CDATA[ */
+var ht_ctc_chat_var = {"number":"6285798335128","pre_filled":"Halo, saya mau langganan MyRepublic...","dis_m":"show","dis_d":"show","css":"display: none; cursor: pointer; z-index: 99999999;","pos_d":"position: fixed; bottom: 75px; right: 25px;","pos_m":"position: fixed; bottom: 75px; right: 25px;","schedule":"no","se":"150","ani":"no-animation","url_target_d":"_blank","ga":"yes","fb":"yes","webhook_format":"json","g_init":"default","g_an_event_name":"click to chat","pixel_event_name":"Click to Chat by HoliThemes"};
+var ht_ctc_variables = {"g_an_event_name":"click to chat","pixel_event_type":"trackCustom","pixel_event_name":"Click to Chat by HoliThemes","g_an_params":["g_an_param_1","g_an_param_2","g_an_param_3"],"g_an_param_1":{"key":"number","value":"{number}"},"g_an_param_2":{"key":"title","value":"{title}"},"g_an_param_3":{"key":"url","value":"{url}"},"pixel_params":["pixel_param_1","pixel_param_2","pixel_param_3","pixel_param_4"],"pixel_param_1":{"key":"Category","value":"Click to Chat for WhatsApp"},"pixel_param_2":{"key":"ID","value":"{number}"},"pixel_param_3":{"key":"Title","value":"{title}"},"pixel_param_4":{"key":"URL","value":"{url}"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/js/appa278.js?ver=4.25" id="ht_ctc_app_js-js"></script>
+<script type="text/javascript" src="wp-content/themes/flatsome/inc/extensions/flatsome-instant-page/flatsome-instant-page1576.js?ver=1.2.1" id="flatsome-instant-page-js"></script>
+<script type="text/javascript" src="wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search0bb8.js?ver=3.19.5" id="flatsome-live-search-js"></script>
+<script type="text/javascript" src="wp-includes/js/hoverIntent.min3e5a.js?ver=1.10.2" id="hoverIntent-js"></script>
+<script type="text/javascript" id="flatsome-js-js-extra">
+/* <![CDATA[ */
+var flatsomeVars = {"theme":{"version":"3.19.5"},"ajaxurl":"https:\/\/myrepublic-bandung.net\/wp-admin\/admin-ajax.php","rtl":"","sticky_height":"70","stickyHeaderHeight":"0","scrollPaddingTop":"0","assets_url":"https:\/\/myrepublic-bandung.net\/wp-content\/themes\/flatsome\/assets\/","lightbox":{"close_markup":"<button title=\"%title%\" type=\"button\" class=\"mfp-close\"><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-x\"><line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"><\/line><line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"><\/line><\/svg><\/button>","close_btn_inside":false},"user":{"can_edit_pages":false},"i18n":{"mainMenu":"Main Menu","toggleButton":"Toggle"},"options":{"cookie_notice_version":"1","swatches_layout":false,"swatches_disable_deselect":false,"swatches_box_select_event":false,"swatches_box_behavior_selected":false,"swatches_box_update_urls":"1","swatches_box_reset":false,"swatches_box_reset_limited":false,"swatches_box_reset_extent":false,"swatches_box_reset_time":300,"search_result_latency":"0"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="wp-content/themes/flatsome/assets/js/flatsomea5b3.js?ver=8e60d746741250b4dd4e" id="flatsome-js-js"></script>
+<script type="text/javascript" src="wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load0bb8.js?ver=3.19.5" id="flatsome-lazy-js"></script>
+</body>
+
+<!-- Mirrored from myrepublic-bandung.net/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 27 Jul 2025 17:45:12 GMT -->
+</html>
+
+</footer>
+
+</div>
+<style>
+.text-footer {
+  color: white;
+  a:link 
+  color: white;
+}
+</style>
+</head>
+<body>
+<div class="text-footer" style="width:100%; text-align:center;">
+<p>
+	<small>2025 © Myrepublic Bandung </small></br> <small>With ❤️ by <a class="text-footer" href="http://technogue.com/">technogue.com</a></small>
+	 </p>
+    </div>
+<div id="main-menu" class="mobile-sidebar no-scrollbar mfp-hide mobile-sidebar-slide mobile-sidebar-levels-1" data-levels="1">
+
+	
+	<div class="sidebar-menu no-scrollbar ">
+
+		
+					<ul class="nav nav-sidebar nav-vertical nav-uppercase nav-slide" data-tab="1">
+				<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-89"><a href="index.html#paket" aria-current="page">Paket Internet</a></li>
+<li class="label-sale menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-90"><a href="index.html#promo" aria-current="page">Promo</a></li>
+<li class="label-new menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-91"><a href="index.html#addon" aria-current="page">Addon</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-92"><a href="index.html#kontak" aria-current="page">Kontak Sales</a></li>
+<li class="html header-button-1">
+	<div class="header-button">
+		<a href="https://api.whatsapp.com/send?phone=6285798335128&amp;text=Haloadmin.SayamauberlanggananMyRepublic" class="button primary is-small box-shadow-1 lowercase"  style="border-radius:30px;">
+		<span>Langganan</span>
+	</a>
+	</div>
+</li>
+			</ul>
+		
+		
+	</div>
+
+	
+</div>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/flatsome-child\/*","\/wp-content\/themes\/flatsome\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<!-- Click to Chat - https://holithemes.com/plugins/click-to-chat/  v4.25 -->  
+            <div class="ht-ctc ht-ctc-chat ctc-analytics ctc_wp_desktop style-7  " id="ht-ctc-chat"  
+                style="display: none;  position: fixed; bottom: 75px; right: 25px;"   >
+                                <div class="ht_ctc_style ht_ctc_chat_style">
+                <style id="ht-ctc-s7">
+.ht-ctc .ctc_s_7:hover .ctc_s_7_icon_padding, .ht-ctc .ctc_s_7:hover .ctc_cta_stick{background-color:#25d366 !important;}.ht-ctc .ctc_s_7:hover svg g path{fill:#f4f4f4 !important;}</style>
+
+<div title = '' class="ctc_s_7 ctc-analytics ctc_nb" style="display:flex;justify-content:center;align-items:center; " data-nb_top="-7.8px" data-nb_right="-7.8px">
+    <p class="ctc_s_7_cta ctc_cta ctc_cta_stick ctc-analytics ht-ctc-cta " style="padding: 0px 16px;  color: #ffffff; background-color: #25d366; border-radius:10px; margin:0 10px;  display: none; "></p>
+    <div class="ctc_s_7_icon_padding ctc-analytics " style="font-size: 30px; color: #ffffff; padding: 12px; background-color: #25D366; border-radius: 50%;">
+        <svg style="pointer-events:none; display:block; height:30px; width:30px;" height="30px" version="1.1" viewBox="0 0 509 512" width="30px">
+        <g fill="none" fill-rule="evenodd" id="Page-1" stroke="none" stroke-width="1">
+            <path style="fill: #ffffff;" d="M259.253137,0.00180389396 C121.502859,0.00180389396 9.83730687,111.662896 9.83730687,249.413175 C9.83730687,296.530232 22.9142299,340.597122 45.6254897,378.191325 L0.613226597,512.001804 L138.700183,467.787757 C174.430395,487.549184 215.522926,498.811168 259.253137,498.811168 C396.994498,498.811168 508.660049,387.154535 508.660049,249.415405 C508.662279,111.662896 396.996727,0.00180389396 259.253137,0.00180389396 L259.253137,0.00180389396 Z M259.253137,459.089875 C216.65782,459.089875 176.998957,446.313956 143.886359,424.41206 L63.3044195,450.21808 L89.4939401,372.345171 C64.3924908,337.776609 49.5608297,295.299463 49.5608297,249.406486 C49.5608297,133.783298 143.627719,39.7186378 259.253137,39.7186378 C374.871867,39.7186378 468.940986,133.783298 468.940986,249.406486 C468.940986,365.025215 374.874096,459.089875 259.253137,459.089875 Z M200.755924,146.247066 C196.715791,136.510165 193.62103,136.180176 187.380228,135.883632 C185.239759,135.781068 182.918689,135.682963 180.379113,135.682963 C172.338979,135.682963 164.002301,138.050856 158.97889,143.19021 C152.865178,149.44439 137.578667,164.09322 137.578667,194.171258 C137.578667,224.253755 159.487251,253.321759 162.539648,257.402027 C165.600963,261.477835 205.268745,324.111057 266.985579,349.682963 C315.157262,369.636141 329.460495,367.859106 340.450462,365.455539 C356.441543,361.9639 376.521811,350.186865 381.616571,335.917077 C386.711331,321.63837 386.711331,309.399797 385.184018,306.857991 C383.654475,304.305037 379.578667,302.782183 373.464955,299.716408 C367.351242,296.659552 337.288812,281.870254 331.68569,279.83458 C326.080339,277.796676 320.898622,278.418749 316.5887,284.378615 C310.639982,292.612729 304.918689,301.074268 300.180674,306.09099 C296.46161,310.02856 290.477218,310.577055 285.331175,308.389764 C278.564174,305.506821 259.516237,298.869139 236.160607,278.048627 C217.988923,261.847958 205.716906,241.83458 202.149458,235.711949 C198.582011,229.598236 201.835077,225.948292 204.584241,222.621648 C207.719135,218.824546 210.610997,216.097679 213.667853,212.532462 C216.724709,208.960555 218.432625,207.05866 220.470529,202.973933 C222.508433,198.898125 221.137195,194.690767 219.607652,191.629452 C218.07588,188.568136 205.835077,158.494558 200.755924,146.247066 Z" 
+            fill="#ffffff" id="htwaicon-chat"/>
+        </g>
+        </svg>    </div>
+</div>                </div>
+            </div>
+                        <span class="ht_ctc_chat_data" 
+                data-settings="{&quot;number&quot;:&quot;6285798335128&quot;,&quot;pre_filled&quot;:&quot;Halo, saya mau langganan MyRepublic...&quot;,&quot;dis_m&quot;:&quot;show&quot;,&quot;dis_d&quot;:&quot;show&quot;,&quot;css&quot;:&quot;display: none; cursor: pointer; z-index: 99999999;&quot;,&quot;pos_d&quot;:&quot;position: fixed; bottom: 75px; right: 25px;&quot;,&quot;pos_m&quot;:&quot;position: fixed; bottom: 75px; right: 25px;&quot;,&quot;schedule&quot;:&quot;no&quot;,&quot;se&quot;:150,&quot;ani&quot;:&quot;no-animation&quot;,&quot;url_target_d&quot;:&quot;_blank&quot;,&quot;ga&quot;:&quot;yes&quot;,&quot;fb&quot;:&quot;yes&quot;,&quot;webhook_format&quot;:&quot;json&quot;,&quot;g_init&quot;:&quot;default&quot;,&quot;g_an_event_name&quot;:&quot;click to chat&quot;,&quot;pixel_event_name&quot;:&quot;Click to Chat by HoliThemes&quot;}" 
+            ></span>
+            
+</body>
+</html>
+
+
+<!-- Page cached by LiteSpeed Cache 7.2 on 2025-07-25 00:58:25 -->
