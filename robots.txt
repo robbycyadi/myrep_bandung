@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://myrepublic-bandung1.my.id/sitemap.xml
